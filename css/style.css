@@ -1,0 +1,371 @@
+/*******GLOBAL STYLING*******/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/*******FIXED TOP NAV*******/
+
+nav {
+  z-index: 2;
+  background-color: black;
+  top: 0;
+  position: fixed;
+  grid-area: nav;
+  width: 100%;
+  overflow: hidden;
+}
+
+nav ul {
+  display: inline-flex;
+  flex-direction: row;
+  list-style: none;
+  flex-wrap: wrap;
+}
+
+/* Nav text */
+
+nav a {
+  display: block;
+  padding: .75em;
+  text-decoration: none;
+  color: #eee;
+}
+
+nav li:hover {
+  text-decoration: underline;
+  font-weight: bolder;
+}
+
+
+/******HOME PAGE*******/
+
+/*home page title*/
+.context {
+  z-index: 1;
+  color: black;
+  text-decoration: underline;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  height: 100%;
+  margin-top: 2em;
+}
+
+.context h1 {
+  text-align: center;
+  color: black;
+  font-size: 35px;
+  margin-bottom: 1rem;
+}
+
+/*home page sub-title*/
+.context p {
+    margin-bottom: 1rem;
+}
+
+/*Display logo*/
+.display.logo{
+  display: inline-flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  margin-top: 50px;
+}
+
+/*Download CV button*/
+
+
+/*******ABOUT PAGE*******/
+
+/*about page profile image*/
+.image-container{
+  margin-top: 50px;
+}
+
+.profile-image{
+    height: auto;
+    width: 100%;    
+    border: #333 solid 5px;
+}
+
+/*about page title text*/
+.about-title{
+  color: black;
+  text-decoration: underline;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+.content-container{
+  display: flex;
+}
+
+/*about page content text para 1*/
+.about-content{
+  color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border: solid #333 5px;
+  margin-left: 5rem;
+  margin-right: 5rem;
+  margin-top: 2rem;
+  margin-bottom: 10rem;
+  padding: 2rem;
+}
+
+/******PORTFOLIO PAGE*******/
+
+/*portfolio title*/
+.portfolio-title{
+  color: black;
+  text-decoration: underline;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 60px;
+  margin-bottom: 0px;
+}
+
+.portfolio-container{
+  border: solid 5px #333;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-right: 150px;
+  margin-left: 150px;
+  margin-bottom: 100px;
+  margin-top:20px;
+  padding-right: 20px;
+  padding-left: 20px;
+
+}
+
+/*portfolio item 1*/
+.portfolio-item-1{
+ padding: 25px;
+}
+
+/*portfolio item 2*/
+.portfolio-item-2{
+  padding: 25px;
+}
+
+/*portfolio item 3*/
+.portfolio-item-3{
+  padding: 25px;
+}
+
+/*portfolio item 4*/
+.portfolio-item-4{
+  padding: 25px;
+}
+
+/*place holder image for portfoli items*/
+
+.image {
+  position: relative;
+  width: 400px;
+}
+
+/*Make the image fill parent image class*/
+.image__img {
+  display: block;
+  width: 100%;
+}
+
+/*setting the parameters for the image overlay*/
+.image__overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6);
+  color: #ffffff;
+  font-family: 'Quicksand', sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+/*makes the text hidden until hovered over*/
+  opacity: 0;
+
+/*making the text appear smoothlyt*/
+  transition: opacity 0.25s;
+}
+
+/*overlaying a blur filter*/
+.image__overlay--blur {
+  backdrop-filter: blur(5px);
+}
+
+/*Making text appear from the bottom*/
+.image__overlay > * {
+  transform: translateY(20px);
+  transition: transform 0.25s;
+}
+
+/*displays the items text when hovered over*/
+.image__overlay:hover {
+  opacity: 1;
+}
+
+/*animates text from the bottom of image*/
+.image__overlay:hover > * {
+  transform: translateY(0);
+}
+
+/*Portfolio items title text*/
+.image__title {
+  font-size: 2em;
+  font-weight: bold;
+}
+
+/*Portfolio items description text*/
+.image__description {
+  font-size: 1.25em;
+  margin-top: 0.25em;
+}
+
+/******BLOG PAGE*******/
+
+/* Blog title */
+.blog-title{
+  color: black;
+  text-decoration: underline;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 60px;
+  margin-bottom: 0px;
+}
+
+/* Blog container */
+.blog-container {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  margin-left: 10%;
+  margin-right: 10%;
+  padding: 0px;
+}
+
+/* Blog items */
+.blog-item-1{
+  background-color: white;
+  padding: 20px;
+  margin-top: 20px;
+  border: #333 solid 5px;
+}
+
+.blog-item-2{
+  background-color: white;
+  padding: 20px;
+  margin-top: 20px;
+  border: #333 solid 5px;
+}
+
+.blog-item-3{
+  background-color: white;
+  padding: 20px;
+  margin-top: 20px;
+  border: #333 solid 5px;
+}
+
+.blog-item-4{
+  background-color: white;
+  padding: 20px;
+  margin-top: 20px;
+  border: #333 solid 5px;
+}
+
+/******CONTACT PAGE*******/
+
+/* Contact title */
+.contact-title{
+  color: black;
+  text-decoration: underline;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 60px;
+  margin-bottom: 0px;
+}
+
+
+/* Style inputs with type="text", select elements and textareas */
+input[type=text], select, textarea {
+  width: 100%; 
+  padding: 12px; 
+  border: 1px solid #333; 
+  border-radius: 4px; 
+  box-sizing: border-box; 
+  margin-top: 6px; 
+  margin-bottom: 16px; 
+  resize: vertical; 
+}
+
+/* Style the submit button with a specific background color etc */
+input[type=submit] {
+  background-color: #333;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* When moving the mouse over the submit button, add a darker green color */
+input[type=submit]:hover {
+  background-color: #eee;
+}
+
+/* Add a background color and some padding around the form */
+.contact-container {
+  border-radius: 5px;
+  background-color: #333;
+  padding: 20px;
+}
+
+
+/******RESPONSIVE DESIGN CHANGES ******/
+
+/* changes apply to more than or equal to 1020px DESKTOP*/
+
+/* 
+MOBILE
+@media screen and (min-width: 400px)
+
+IPAD
+@media screen and (min-width: 600px)
+
+DESKTOP
+@media screen and (min-width: 1020px)
+*/
+
+
+@media screen and ( min-width: 1020px ) {
+  .image-container{
+    display: flex;
+    justify-content: center;
+  }
+  .profile-image { 
+    width: 50%; 
+    margin: auto 0;
+  }
+}
+
+
+
+
+
+
+
