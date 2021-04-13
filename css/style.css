@@ -247,27 +247,24 @@ nav li:hover {
   margin-bottom: 0px;
 }
 
-/* Blog row */
+.blog-page{
+  display: flex;
+  justify-content: center;
+}
+
+/* Blog Container */
 
 .blog-container-container{
   border: solid red 5px;
   display: flex;
   justify-content: center;
-}
-
-/* Blog container */
-.blog-container {
-  display: flex;
-  flex-direction: column;
-  margin-top: 20px;
-  margin-left: 10%;
-  margin-right: 10%;
-  padding: 0px;
+  height: 70%;
+  width: 70%;
 }
 
 /* Blog items */
 
-/* Header/Blog Title */
+/* Blog Title */
 .header {
   padding: 30px;
   font-size: 40px;
@@ -287,13 +284,14 @@ nav li:hover {
 
 /* Blog images */
 .blog-images{
-  height: 400px;
-  width: 600px;
+  height: 10rem;
+  width: 20rem;
 }
 
-/* Add a card effect for articles */
+/* Changes to all blog cards */
 .card {
   background-color: white;
+  padding: 1rem;
 }
 
 .card h2{
