@@ -28,7 +28,7 @@ nav ul {
 
 nav a {
   display: block;
-  padding: .75em;
+  padding: .5rem;
   text-decoration: none;
   color: #eee;
 }
@@ -122,6 +122,20 @@ nav li:hover {
 
 /******PORTFOLIO PAGE*******/
 
+
+/*portfolio page container*/
+.portfolio-page{
+  padding: 2rem;
+}
+
+.portfolio-container{
+  border: solid 5px #333;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
 /*portfolio title*/
 .portfolio-title{
   color: black;
@@ -133,18 +147,6 @@ nav li:hover {
   margin-bottom: 0px;
 }
 
-.portfolio-container{
-  border: solid 5px #333;
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  margin-right: 150px;
-  margin-left: 150px;
-  margin-bottom: 100px;
-  margin-top: 20px;
-  padding-right: 20px;
-  padding-left: 20px;
-}
 
 /*portfolio item 1*/
 .portfolio-item-1{
@@ -255,7 +257,6 @@ nav li:hover {
 /* Blog Container */
 
 .blog-container-container{
-  border: solid red 5px;
   display: flex;
   justify-content: center;
   height: 70%;
@@ -275,6 +276,7 @@ nav li:hover {
 /* Stores all blog items */
 .blog-container {
   border: solid #333 5px;
+  border-radius: 10px;
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
