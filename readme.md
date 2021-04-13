@@ -12,16 +12,15 @@ A link to the dGithub Repo  can be found here:
 
 # Purpose
 
-The purpose of this project to provide an online portfolio that provides information about you, your skills, interests, professional knowledge and a showcase of your work.
+The purpose of this provides information about my background, skills, professional knowledge and illustrate the work I have developed during my time at Coder Academy. 
 
 # Target Audience
 
-The target audience for the portfolio website is an employer looking to engage a dev and/or IT professional. Expect the employer to have the following knowledge and expectations:
-
-technical knowledge relating to information technology, software development/coding, programming languages and development stacks
-high expectations of professionalism and a positive work ethic
+The target audience for this portfolio website is employers looking to engage with a developer who enjoys problem-solving with creative people.
 
 # Functionality/Features
+
+The website is designed with a mobile-first approach and is responsive acroos screen sizes. 
 
 # Sitemap
 
@@ -31,8 +30,3 @@ high expectations of professionalism and a positive work ethic
 
 - HTML
 - CSS
-
-
-
-
-
