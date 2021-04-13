@@ -168,8 +168,7 @@ nav li:hover {
   padding: 25px;
 }
 
-/*place holder image for portfoli items*/
-
+/*place holder logo image for future portfolio items*/
 .image {
   position: relative;
   width: 100%;
@@ -249,6 +248,7 @@ nav li:hover {
   margin-bottom: 0px;
 }
 
+/* Blog Page Container */
 .blog-page{
   display: flex;
   justify-content: center;
@@ -265,13 +265,6 @@ nav li:hover {
 
 /* Blog items */
 
-/* Blog Title */
-.header {
-  padding: 30px;
-  font-size: 40px;
-  text-align: center;
-  background: white;
-}
 
 /* Stores all blog items */
 .blog-container {
@@ -362,13 +355,17 @@ input[type=submit]:hover {
 
 
 
-
+/* DESKTOP */
 @media screen and ( min-width: 1020px ) {
   .image-container{
     display: flex;
     justify-content: center;
   }
   .profile-image{ 
+    width: 50%; 
+    margin: auto 0;
+  }
+  .card{
     width: 50%; 
     margin: auto 0;
   }
