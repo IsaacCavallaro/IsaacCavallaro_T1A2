@@ -362,6 +362,10 @@ input[type=submit]:hover {
     margin: 2%;
   }
 
+  .blog-container-container{  
+    width: 100%;
+  }
+
 }
 
 /*IPAD*/
@@ -378,11 +382,8 @@ input[type=submit]:hover {
     margin: auto 0;
   }
 
-  .card{
-    padding-bottom: 10rem;
-    border: 5px purple solid;
-    padding: 20px;
-    margin: 0;
+  .blog-container-container{  
+    width: 100%;
   }
 }
 
@@ -403,7 +404,7 @@ input[type=submit]:hover {
   /*Blog cards*/
   .card{
     width: 50%; 
-    padding-bottom: 15rem;
+    padding-bottom: 5rem;
   }
 
   .blog-images{
@@ -412,11 +413,13 @@ input[type=submit]:hover {
     margin: auto 0;
   }
 
-  /* Makes the padding of the blog container larger on desktop screens */
   .blog-container{
-    padding-left: 10%;
-    padding-right: 10%;
-  } 
+    width: 100%;
+  }
+
+  .blog-container-container{  
+    width: 100%;
+  }
 
 }
 
