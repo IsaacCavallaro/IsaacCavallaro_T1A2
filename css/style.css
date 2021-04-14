@@ -345,11 +345,12 @@ input[type=submit]:hover {
 
 
 /* MOBILE */
-@media screen and (min-width: 299px) {
+@media screen and (min-width: 341px) {
   .blog-images{
-    width: 20rem;
-    height: 10rem;
+    width: 15rem;
+    height: 7.5rem;
     margin: auto 0;
+    border: red solid 5px;
   }
 
   .card{
@@ -361,15 +362,12 @@ input[type=submit]:hover {
   }
 
   .blog-container{
-    margin: 2%;
+    margin: 2%; 
   }
 
   .blog-container-container{  
     width: 100%;
   }
-
-
-
 }
 
 /*IPAD*/
@@ -378,9 +376,6 @@ input[type=submit]:hover {
   .blog-container-container{
     margin: 0px;
     padding: 0;
-  }
-
-  .blog-container-container{  
     width: 100%;
   }
 
@@ -395,11 +390,9 @@ input[type=submit]:hover {
   .card{
     padding-bottom: 10rem;
     margin: 5px;
-    width: 20rem;
+    width: 40rem;
     border: solid yellow 5px;
   }
-
-
 }
 
 
@@ -418,7 +411,7 @@ input[type=submit]:hover {
 
   /*Blog cards*/
   .card{
-    width: 50%; 
+    width: 40%; 
     padding-bottom: 1rem;
   }
 
@@ -435,6 +428,8 @@ input[type=submit]:hover {
 
   .blog-container-container{  
     width: 100%;
+    display: inline-flex;
+    flex-wrap: wrap;
   }
 
 }
