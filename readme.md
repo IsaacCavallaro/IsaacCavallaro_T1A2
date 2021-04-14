@@ -8,7 +8,7 @@ https://iccoderacademyportfoliot.netlify.app/
 
 # Link to Github Repo
 
-A link to the dGithub Repo  can be found here:
+A link to the Github Repo  can be found here:
 
 https://github.com/IsaacCavallaro/IsaacCavallaro_T1A2
 
