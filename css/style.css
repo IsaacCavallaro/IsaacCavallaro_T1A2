@@ -266,7 +266,7 @@ nav li:hover {
 /* Blog items */
 
 
-/* Stores all blog items */
+/* Stores all blog cards */
 .blog-container {
   border: solid #333 5px;
   border-radius: 10px;
@@ -285,7 +285,6 @@ nav li:hover {
 
 /* Changes to all blog cards */
 .card {
-  background-color: white;
   padding: 1rem;
 }
 
@@ -342,17 +341,22 @@ input[type=submit]:hover {
 }
 
 
-/******RESPONSIVE DESIGN CHANGES ******/
+/******RESPONSIVE DESIGN CHANGES VA MEDIA QUERIES ******/
 
-/* changes apply to more than or equal to 1020px DESKTOP*/
 
 /* MOBILE */
 @media screen and (min-width: 400px) {
   .blog-images{
-    width: 70%;
-    height: 50%;
+    width: 200px;
+    height: 150px;
     margin: auto 0;
   }
+
+  .card{
+    padding-bottom: 10rem;
+    border: 5px red solid;
+  }
+
 }
 
 /*IPAD*/
@@ -371,13 +375,17 @@ input[type=submit]:hover {
     display: flex;
     justify-content: center;
   }
+
+  /*about page image*/
   .profile-image{ 
     width: 50%; 
     margin: auto 0;
   }
+
+  /*Blog cards*/
   .card{
     width: 50%; 
-    margin: auto 0;
+    padding-bottom: 15rem;
   }
 
   .blog-images{
@@ -388,8 +396,10 @@ input[type=submit]:hover {
 
   /* Makes the padding of the blog container larger on desktop screens */
   .blog-container{
-    padding: 10%;
-  }
+    padding-left: 10%;
+    padding-right: 10%;
+  } 
+
 }
 
 
