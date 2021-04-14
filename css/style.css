@@ -113,6 +113,7 @@ nav li:hover {
   flex-direction: column;
   justify-content: center;
   border: solid #333 5px;
+  border-radius: 10px;
   margin-left: 5rem;
   margin-right: 5rem;
   margin-top: 2rem;
@@ -305,8 +306,6 @@ nav li:hover {
   margin-bottom: 0px;
 }
 
-
-/* Style inputs with type="text", select elements and textareas */
 input[type=text], select, textarea {
   width: 100%; 
   padding: 12px; 
@@ -318,7 +317,6 @@ input[type=text], select, textarea {
   resize: vertical; 
 }
 
-/* Style the submit button with a specific background color etc */
 input[type=submit] {
   background-color: #333;
   color: white;
@@ -328,18 +326,17 @@ input[type=submit] {
   cursor: pointer;
 }
 
-/* When moving the mouse over the submit button, add a darker green color */
+
 input[type=submit]:hover {
   background-color: #eee;
 }
 
-/* Add a background color and some padding around the form */
 .contact-container {
   border-radius: 5px;
   background-color: #333;
   padding: 20px;
+  margin: 2rem;
 }
-
 
 /******RESPONSIVE DESIGN CHANGES VA MEDIA QUERIES ******/
 
