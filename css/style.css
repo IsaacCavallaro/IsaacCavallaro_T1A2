@@ -67,6 +67,21 @@ nav .current-page{
   position: absolute;
   height: 100%;
   margin-top: 2em;
+  animation: pulse 100s infinite;
+}
+
+@keyframes pulse {
+  0% {
+    background-color: #ffffff;
+  }
+
+  50% {
+    background-color: #999CF0;
+  }
+
+  100% {
+    background-color: #fffff ;
+  }
 }
 
 
@@ -78,7 +93,6 @@ nav .current-page{
 }
 
 .title_container{
-  border: #333 solid 1px;
   border-radius: 10px;
   display: inline-flex;
   flex-direction: column;
@@ -92,9 +106,8 @@ nav .current-page{
 
 /*Name home page*/
 .home_title{
-  color: #333;
+  color: #ADACB5;
   font-size: 20px;
-  padding: 0px;
 }
 
 /*Stack home page*/
