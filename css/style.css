@@ -67,7 +67,7 @@ nav .current-page{
   position: absolute;
   height: 100%;
   margin-top: 2em;
-  animation: pulse 100s infinite;
+  animation: pulse 80s infinite;
 }
 
 @keyframes pulse {
