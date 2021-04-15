@@ -138,6 +138,8 @@ nav .current-page{
 }
 .content-container{
   display: flex;
+  justify-content: center;
+  width: 100%;
 }
 
 /*about page content text para 1*/
@@ -156,8 +158,6 @@ nav .current-page{
 }
 
 /******PORTFOLIO PAGE*******/
-
-
 /*portfolio page container*/
 .portfolio-page{
   padding: 2rem;
@@ -351,7 +351,6 @@ input[type=submit]:hover {
 
 /******RESPONSIVE DESIGN CHANGES VA MEDIA QUERIES ******/
 
-
 /* MOBILE */
 @media screen and (min-width: 341px) {
   .blog-images{
@@ -374,6 +373,10 @@ input[type=submit]:hover {
 
   .blog-container-container{  
     width: 100%;
+  }
+
+  .about-content{
+    margin: 1rem;
   }
 }
 
@@ -400,9 +403,14 @@ input[type=submit]:hover {
     width: 40rem;
     border: #333 solid 1px;
   }
+
+  .about-content{
+    margin: 1.25rem;
+  }
+
 }
 
-/* DESKTOP */
+/*DESKTOP*/
 @media screen and ( min-width: 1020px ) {
   .image-container{
     display: flex;
@@ -412,7 +420,7 @@ input[type=submit]:hover {
   /*about page image*/
   .profile-image{ 
     width: 50%; 
-    margin: auto 0;
+    margin-top: 1rem;
   }
 
   /*Blog cards*/
@@ -445,6 +453,10 @@ input[type=submit]:hover {
 
   .title_container{
     width: 50%;
+  }
+
+  .about-content{
+    margin: 2rem;
   }
 }
 
