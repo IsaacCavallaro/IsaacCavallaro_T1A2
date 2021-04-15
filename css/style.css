@@ -36,18 +36,21 @@ nav a {
   padding-right: .5rem;
   padding-left: .5rem;
   text-decoration: none;
-  color: #eee;
+  color:#ADACB5;
+  
 }
 
 nav li:hover {
   text-decoration: underline;
-  font-weight: bolder;
+  
 }
 
 /* Nav display current page */
 nav .current-page{
+  
+  color: #D8D5DB;
   text-decoration: underline;
-  font-weight: bolder;
+  
 }
 
 
