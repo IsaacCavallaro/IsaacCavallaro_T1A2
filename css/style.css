@@ -44,6 +44,12 @@ nav li:hover {
   font-weight: bolder;
 }
 
+/* Nav display current page */
+nav .current-page{
+  text-decoration: underline;
+  font-weight: bolder;
+}
+
 
 /******HOME PAGE*******/
 
