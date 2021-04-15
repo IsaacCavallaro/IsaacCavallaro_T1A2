@@ -14,9 +14,11 @@ https://github.com/IsaacCavallaro/IsaacCavallaro_T1A2
 
 # Site Description
 
+The site was built with a responsive mobile first design, allowing its contents to adjust to multiple screen sizes. 
+
 # Purpose
 
-The purpose of this website is to provided information regarding my background, professional knowledge and illustrate the work I have developed during my time at Coder Academy. 
+The purpose of this website is to provided information regarding my professional background and illustrate the work I have developed during my time at Coder Academy. 
 
 # Target Audience
 
@@ -24,7 +26,7 @@ The target audience for this portfolio website is employers looking to engage wi
 
 # Functionality/Features
 
-The website is designed with a mobile-first approach and is responsive across mutiple screen sizes.
+The site features a fixed and responsive top navbar which adjust to multiple screen sizes. Active pages are recognised with an underline feature and a change of colour from the rest of the navbar text; allowing for a simpler user experience.
 
 # Sitemap
 
