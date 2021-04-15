@@ -160,19 +160,8 @@ nav li:hover {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-}
-
-/*portfolio title*/
-.portfolio-title{
-  color: black;
-  text-decoration: underline;
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
   margin-top: 60px;
-  margin-bottom: 0px;
 }
-
 
 /*portfolio item 1*/
 .portfolio-item-1{
@@ -263,21 +252,11 @@ nav li:hover {
 
 /******BLOG PAGE*******/
 
-/* Blog title */
-.blog-title{
-  color: black;
-  text-decoration: underline;
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  margin-top: 60px;
-  margin-bottom: 0px;
-}
-
 /* Blog Page Container */
 .blog-page{
   display: flex;
   justify-content: center;
+  margin-top: 40px;
 }
 
 /* Blog Container */
@@ -290,8 +269,6 @@ nav li:hover {
 }
 
 /* Blog items */
-
-
 /* Stores all blog cards */
 .blog-container {
   border: solid #333 5px;
@@ -453,6 +430,13 @@ input[type=submit]:hover {
     flex-wrap: wrap;
   }
 
+  .image__img{
+    width: 100%; 
+  }
+
+  .title_container{
+    width: 50%;
+  }
 }
 
 
