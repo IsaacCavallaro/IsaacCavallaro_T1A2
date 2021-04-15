@@ -143,7 +143,7 @@ nav .current-page{
   display: flex;
   flex-direction: column;
   justify-content: center;
-  border: solid #333 5px;
+  border: solid #333 1px;
   border-radius: 10px;
   margin-left: 5rem;
   margin-right: 5rem;
@@ -159,7 +159,7 @@ nav .current-page{
 }
 
 .portfolio-container{
-  border: solid 5px #333;
+  border: solid 1px #333;
   border-radius: 10px;
   display: flex;
   justify-content: center;
