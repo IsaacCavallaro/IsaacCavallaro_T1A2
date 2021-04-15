@@ -18,7 +18,7 @@ The site was built with a responsive mobile first design, allowing its contents 
 
 # Purpose
 
-The purpose of this website is to provided information regarding my professional background and illustrate the work I have developed during my time at Coder Academy. 
+The purpose of this website is to illustrate the work I have developed during my time at Coder Academy whilst illustraing my background as a professional musician.  
 
 # Target Audience
 
