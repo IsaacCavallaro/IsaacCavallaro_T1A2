@@ -41,11 +41,10 @@ nav li:hover {
 
 /******HOME PAGE*******/
 
-/*home page title*/
+/*home page*/
 .context {
   z-index: 1;
   color: black;
-  text-decoration: underline;
   width: 100%;
   display: flex;
   flex-direction: column;
@@ -56,17 +55,20 @@ nav li:hover {
   margin-top: 2em;
 }
 
-.context h1 {
-  text-align: center;
-  color: black;
-  font-size: 35px;
-  margin-bottom: 1rem;
+/*Name home page*/
+.home_title{
+  color: #333;
+  display: flex;
+  justify-content: center;
 }
 
-/*home page sub-title*/
-.context p {
-    margin-bottom: 1rem;
+.home_sub_title{
+  color: #333;
+  display: flex;
+  justify-content: center;
+
 }
+
 
 /*Display logo*/
 .display.logo{
@@ -290,7 +292,7 @@ nav li:hover {
 }
 
 .card h2{
-  text-decoration: underline;
+  text-decoration: 
 }
 
 /******CONTACT PAGE*******/
