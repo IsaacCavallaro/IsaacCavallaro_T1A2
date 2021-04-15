@@ -64,25 +64,27 @@ nav li:hover {
 }
 
 .title_container{
-  border: red solid 5px;
-  height: 150px;
+  border: #333 solid 2px;
+  border-radius: 10px;
+  height: 120px;
   display: inline-flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   padding: 5px;
+  height: 55px;
 }
 
 /*Name home page*/
 .home_title{
   color: #333;
-  font-size: 50px;
+  font-size: 25px;
 }
 
 /*Stack home page*/
 .home_sub_title{
   color: #333;
-  font-size: 25px;
+  font-size: 15px;
 }
 
 
