@@ -14,7 +14,7 @@ https://github.com/IsaacCavallaro/IsaacCavallaro_T1A2
 
 # Site Description
 
-The site was built with a responsive mobile first design, allowing its contents to adjust to multiple screen sizes. 
+The site was built with a responsive mobile first design, allowing its contents to adjust to multiple screen sizes. It features a minimal design, colour pallette with a focus on a simple and accesible user experience.
 
 # Purpose
 
@@ -22,7 +22,7 @@ The purpose of this website is to illustrate the work I have developed during my
 
 # Target Audience
 
-The target audience for this portfolio website is employers looking to engage with a developer who enjoys learning, creativite thinking and problem-solving.
+The target audience for this portfolio website is employers looking to engage with a developer who enjoys learning, creativite thinking and problem solving.
 
 # Functionality/Features
 
