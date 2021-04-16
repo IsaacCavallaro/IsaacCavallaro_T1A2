@@ -11,7 +11,6 @@
 /*******FIXED TOP NAV*******/
 
 nav {
-  z-index: 2;
   background-color: black;
   top: 0;
   position: fixed;
@@ -47,17 +46,14 @@ nav li:hover {
 
 /* Nav display current page */
 nav .current-page{
-  color: #D8D5DB;
+  color: #EAE8FF;
   text-decoration: underline;
   
 }
 
-
 /******HOME PAGE*******/
-
 /*home page*/
 .context {
-  z-index: 1;
   color: black;
   width: 100%;
   display: flex;
@@ -80,7 +76,7 @@ nav .current-page{
   }
 
   100% {
-    background-color: #fffff ;
+    background-color: #ffffff ;
   }
 }
 
