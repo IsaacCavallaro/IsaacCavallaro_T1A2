@@ -9,7 +9,6 @@
 }
 
 /*******FIXED TOP NAV*******/
-
 nav {
   background-color: black;
   top: 0;
@@ -66,6 +65,7 @@ nav .current-page{
   animation: pulse 40s infinite;
 }
 
+/*animating background*/
 @keyframes pulse {
   0% {
     background-color: #ffffff;
@@ -79,7 +79,6 @@ nav .current-page{
     background-color: #ffffff ;
   }
 }
-
 
 .title_container_container{
   display: flex;
@@ -197,19 +196,19 @@ nav .current-page{
 }
 
 /*place holder logo image for future portfolio items*/
-.image {
+.image{
   position: relative;
   width: 100%;
 }
 
 /*Make the image fill parent image class*/
-.image__img {
+.image__img{
   display: block;
   width: 100%;
 }
 
 /*setting the parameters for the image overlay*/
-.image__overlay {
+.image__overlay{
   position: absolute;
   top: 0;
   left: 0;
@@ -231,7 +230,7 @@ nav .current-page{
 }
 
 /*overlaying a blur filter*/
-.image__overlay--blur {
+.image__overlay--blur{
   backdrop-filter: blur(5px);
 }
 
@@ -252,19 +251,18 @@ nav .current-page{
 }
 
 /*Portfolio items title text*/
-.image__title {
+.image__title{
   font-size: 1.5rem;
   font-weight: bold;
 }
 
 /*Portfolio items description text*/
-.image__description {
+.image__description{
   font-size: 1rem;
   margin-top: 0.25rem;
 }
 
 /******BLOG PAGE*******/
-
 /* Blog Page Container */
 .blog-page{
   display: flex;
@@ -283,7 +281,7 @@ nav .current-page{
 
 /* Blog items */
 /* Stores all blog cards */
-.blog-container {
+.blog-container{
   border: solid #333 5px;
   border-radius: 10px;
   display: flex;
@@ -300,7 +298,7 @@ nav .current-page{
 }
 
 /* Changes to all blog cards */
-.card {
+.card{
   padding: 1rem;
 }
 
@@ -312,12 +310,11 @@ nav .current-page{
 
 /* Contact title */
 .contact-title{
-  color: black;
-  text-decoration: underline;
+  color: #333;
   display: flex;
   flex-direction: row;
   justify-content: center;
-  margin-top: 60px;
+  margin-top: 80px;
   margin-bottom: 0px;
 }
 
@@ -348,17 +345,16 @@ input[type=submit]:hover {
 
 .contact-container {
   border-radius: 5px;
-  background-color: #333;
+  background-color: #eee;
   padding: 20px;
-  margin-top: 80px;
+  margin-top: 40px;
   margin-right: 10px;
   margin-bottom: 20px;
   margin-left: 10px;
 }
 
 /******RESPONSIVE DESIGN CHANGES VA MEDIA QUERIES ******/
-
-/* MOBILE */
+/* Mobile */
 @media screen and (min-width: 320px) {
   .blog-images{
     width: 15rem;
@@ -405,7 +401,7 @@ input[type=submit]:hover {
   }
 }
 
-/*IPAD*/
+/*Tablet*/
 @media screen and (min-width: 600px) {
 
    /*Name home page*/
@@ -415,7 +411,7 @@ input[type=submit]:hover {
     padding: 0px;
   }
 
-/*Stack home page*/
+  /*Stack home page*/
   .home_sub_title{
     color: #333;
     font-size: 12.5px;
@@ -465,7 +461,7 @@ input[type=submit]:hover {
 
 }
 
-/*DESKTOP*/
+/*Desktop*/
 @media screen and ( min-width: 1020px ) {
   .image-container{
     display: flex;
