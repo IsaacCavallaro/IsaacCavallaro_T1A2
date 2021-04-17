@@ -34,20 +34,17 @@ nav a {
   padding-left: .5rem;
   text-decoration: none;
   color:#ADACB5;
-  
 }
 
 /* Nav hovering effect*/
 nav li:hover {
-  text-decoration: underline;
-  
+  text-decoration: underline; 
 }
 
 /* Nav display current page */
 nav .current-page{
   color: #EAE8FF;
   text-decoration: underline;
-  
 }
 
 /******HOME PAGE*******/
@@ -117,7 +114,6 @@ nav .current-page{
 }
 
 /*******ABOUT PAGE*******/
-
 /*about page profile image*/
 .image-container{
   margin-top: 50px;
@@ -139,6 +135,7 @@ nav .current-page{
   margin-top: 10px;
   margin-bottom: 0px;
 }
+
 .content-container{
   display: flex;
   justify-content: center;
@@ -271,7 +268,6 @@ nav .current-page{
 }
 
 /* Blog Container */
-
 .blog-container-container{
   display: flex;
   justify-content: center;
@@ -307,7 +303,6 @@ nav .current-page{
 }
 
 /******CONTACT PAGE*******/
-
 /* Contact title */
 .contact-title{
   color: #333;
@@ -347,8 +342,8 @@ input[type=submit]:hover {
   border-radius: 5px;
   background-color: #eee;
   padding: 20px;
-  margin-top: 40px;
-  margin-right: 10px;
+  margin-top: 20px;
+  margin-right: 0px;
   margin-bottom: 20px;
   margin-left: 10px;
 }
@@ -417,6 +412,13 @@ input[type=submit]:hover {
     font-size: 12.5px;
   }
 
+  .contact-container{
+    margin-top: 50px;
+    margin-right: 300px;
+    margin-bottom: 20px;
+    margin-left: 300px;
+  }
+
   /*Border of title on home page*/
   .title_container{
     height: 50px;
@@ -453,10 +455,10 @@ input[type=submit]:hover {
   }
 
   .contact-container{
-    margin-top: 200px;
-    margin-right: 300px;
+    margin-top: 50px;
+    margin-right: 100px;
     margin-bottom: 20px;
-    margin-left: 300px;
+    margin-left: 100px;
   }
 
 }
@@ -508,6 +510,13 @@ input[type=submit]:hover {
 
   .about-content{
     margin: 2rem;
+  }
+
+  .contact-container{
+    margin-top: 50px;
+    margin-right: 400px;
+    margin-bottom: 20px;
+    margin-left: 400px;
   }
 }
 
