@@ -33,7 +33,15 @@ The target audience for this portfolio website is employers looking to engage wi
 
 # Sitemap
 
+I designed my portfolio with three princibles in mind:
+
+- Minimal
+- Accessible
+- Responsive
+
 # Screenshots
+
+A link to screenshots can be found here:
 
 # Tech Stack
 
