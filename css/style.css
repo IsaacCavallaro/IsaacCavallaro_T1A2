@@ -384,7 +384,7 @@ input[type=submit]:hover {
     padding: 0px;
   }
 
-/*Stack home page*/
+  /*Stack home page*/
   .home_sub_title{
     color: #333;
     font-size: 10px;
@@ -394,6 +394,14 @@ input[type=submit]:hover {
   .title_container{
     height: 33px;
   }
+
+  .contact-container{
+    margin-top: 50px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+  }
+
 }
 
 /*Tablet*/
@@ -514,9 +522,7 @@ input[type=submit]:hover {
 
   .contact-container{
     margin-top: 50px;
-    margin-right: 400px;
     margin-bottom: 20px;
-    margin-left: 400px;
   }
 }
 
