@@ -102,12 +102,13 @@ nav .current-page{
   font-size: 20px;
 }
 
-/*Stack home page*/
+/*home page sub title*/
 .home_sub_title{
   color: #333;
   font-size: 12.5px;
 }
 
+/*home page logo image*/
 .logo_home_page{
   width: 200px;
   margin-bottom: 5px;
@@ -127,16 +128,6 @@ nav .current-page{
 }
 
 /*about page title text*/
-.about-title{
-  color: black;
-  text-decoration: underline;
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  margin-top: 10px;
-  margin-bottom: 0px;
-}
-
 .content-container{
   display: flex;
   flex-direction: column;
@@ -147,7 +138,6 @@ nav .current-page{
 /*about page content text para 1*/
 .about-content{
   color: #333;
-  background: #eee;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -163,7 +153,10 @@ nav .current-page{
 /******PORTFOLIO PAGE*******/
 /*portfolio page container*/
 .portfolio-page{
-  padding: 2rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  padding-top: 0px;
+  margin-top: 0px;
 }
 
 .portfolio-container{
@@ -216,7 +209,7 @@ nav .current-page{
   height: 100%;
   background: rgba(0, 0, 0, 0.6);
   color: #ffffff;
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'Alef', sans-serif;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -289,12 +282,6 @@ nav .current-page{
   padding: .5%;
 }
 
-/* Blog images */
-.blog-images{
-  height: 10rem;
-  width: 20rem;
-}
-
 /* Changes to all blog cards */
 .card{
   padding: 1rem;
@@ -361,8 +348,8 @@ input[type=submit]:hover {
 /* Mobile */
 @media screen and (min-width: 320px) {
   .blog-images{
-    width: 15rem;
-    height: 7.5rem;
+    width: 200px;
+    height: 150px;
     margin: auto 0;
   }
 
@@ -456,8 +443,8 @@ input[type=submit]:hover {
   }
 
   .blog-images{
-    width: 20rem;
-    height: 10rem;
+    width: 300px;
+    height: 150px;
     display: flex;
     justify-content: center;
 
@@ -505,8 +492,8 @@ input[type=submit]:hover {
   }
 
   .blog-images{
-    width: 25rem;
-    height: 12.5rem;
+    width: 300px;
+    height: 200px;
     margin: auto 0;
   }
 
@@ -540,6 +527,7 @@ input[type=submit]:hover {
     margin-right: 400px;
   }
 }
+
 
 
 
