@@ -144,7 +144,8 @@ nav .current-page{
 
 /*about page content text para 1*/
 .about-content{
-  color: black;
+  color: #333;
+  background:#eee;
   display: flex;
   flex-direction: column;
   justify-content: center;
