@@ -285,7 +285,7 @@ nav .current-page{
 /* Blog images */
 .blog-images{
   height: auto;
-  width: 100%;  
+  max-width: 100%;  
 }
 
 /* Changes to all blog cards */
@@ -351,14 +351,9 @@ input[type=submit]:hover {
 }
 
 /******RESPONSIVE DESIGN CHANGES VA MEDIA QUERIES ******/
-/* Mobile */
-@media screen and (min-width: 320px) {
-  .blog-images{
-    width: 200px;
-    height: 150px;
-    margin: auto 0;
-  }
-
+/* Media changes starting at 300px screen sizes */
+@media screen and (min-width: 300px) {
+  
   .card{
     width: 20rem;
     padding-bottom: 1rem;
@@ -412,7 +407,7 @@ input[type=submit]:hover {
   }
 }
 
-/*Tablet*/
+/* Media changes starting at 600px screen sizes */
 @media screen and (min-width: 600px) {
 
    /*Name home page*/
@@ -439,21 +434,20 @@ input[type=submit]:hover {
   }
 
   .blog-container-container{
-    margin: 0px;
     padding: 0;
     width: 100%;
   }
 
   .blog-container{
-    border: solid #333 5px;
+    width: 100%;
+    height: auto;
   }
 
   .blog-images{
-    width: 300px;
-    height: 150px;
+    width: 20rem;
+    height: auto;
     display: flex;
     justify-content: center;
-
   }
 
   .card{
@@ -505,8 +499,10 @@ input[type=submit]:hover {
 
   .blog-container{  
     width: 100%;
-    height: 100%;
+    height: auto;
+    border: solid #333 5px;
   }
+
 
   .blog-container-container{  
     width: 100%;
