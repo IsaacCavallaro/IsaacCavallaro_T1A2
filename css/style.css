@@ -282,6 +282,12 @@ nav .current-page{
   padding: .5%;
 }
 
+/* Blog images */
+.blog-images{
+  height: auto;
+  width: 100%;  
+}
+
 /* Changes to all blog cards */
 .card{
   padding: 1rem;
@@ -492,7 +498,7 @@ input[type=submit]:hover {
   }
 
   .blog-images{
-    width: 300px;
+    width: 3  00px;
     height: 200px;
     margin: auto 0;
   }
