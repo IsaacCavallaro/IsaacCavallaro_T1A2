@@ -168,6 +168,11 @@ nav .current-page{
   margin-top: 60px;
 }
 
+.item-titles{
+  display: flex;
+  justify-content: center;
+}
+
 /*portfolio item 1*/
 .portfolio-item-1{
  padding: 25px;
