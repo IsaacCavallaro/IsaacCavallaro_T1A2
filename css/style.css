@@ -318,6 +318,7 @@ nav .current-page{
   margin-bottom: 0px;
 }
 
+/* Contact short paragraph*/
 .contact-para{
   color: #333;
   display: flex;
@@ -325,6 +326,7 @@ nav .current-page{
   justify-content: center;
 }
 
+/* Contact form*/
 input[type=text], select, textarea {
   width: 100%; 
   padding: 12px; 
@@ -360,11 +362,13 @@ input[type=submit]:hover {
   margin-left: 10px;
 }
 
+/*social media icons section*/
 .social-footer{
   margin-left: 50px;
   margin-right: 50px;
 }
 
+/*social media icons*/
 .social-icons{
   display: flex;
   justify-content: center;
