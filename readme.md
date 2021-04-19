@@ -53,4 +53,4 @@ A link to the slide presentation can be found [here](https://github.com/IsaacCav
 
 - HTML
 - CSS
-- Font Awesome
+- Font Awesome (icons)
