@@ -41,7 +41,7 @@ A link to the data flow site map can be found [here](https://github.com/IsaacCav
 
 # Screenshots
 
-A link to screenshots can be found here:
+A link to screenshots can be found [here](https://github.com/IsaacCavallaro/IsaacCavallaro_T1A2/tree/master/Resources/docs/site%20screenshots).
 
 # Tech Stack
 
