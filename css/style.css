@@ -361,6 +361,12 @@ input[type=submit]:hover {
   margin-left: 10px;
 }
 
+.social-icons{
+  display: flex;
+  justify-content: center;
+}
+
+
 /******RESPONSIVE DESIGN CHANGES VA MEDIA QUERIES ******/
 /* Media changes starting at 300px screen sizes */
 @media screen and (min-width: 300px) {
