@@ -118,13 +118,8 @@ nav .current-page{
 /*about page profile image*/
 .image-container{
   margin-top: 50px;
-  background:
-  linear-gradient(#333, transparent),
-  linear-gradient(to top left, #eee, transparent),
-  linear-gradient(to top right, #333, transparent);
-background-blend-mode: screen;
+  background:#333;
 }
-
 .profile-image{
     height: auto;
     width: 100%;    
