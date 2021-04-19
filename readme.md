@@ -2,15 +2,11 @@
 
 # Link to Site
 
-A link to the deployed site can be found here:
-
-https://iccoderacademyportfoliot.netlify.app/
+A link to the deployed site can be found [here](https://iccoderacademyportfoliot.netlify.app/).
 
 # Link to Github Repo
 
-A link to the Github Repo  can be found here:
-
-https://github.com/IsaacCavallaro/IsaacCavallaro_T1A2
+A link to the Github Repo  can be found [here](https://github.com/IsaacCavallaro/IsaacCavallaro_T1A2)
 
 # Site Description
 
