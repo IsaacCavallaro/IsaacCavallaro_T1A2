@@ -47,7 +47,7 @@ A link to screenshots can be found [here](https://github.com/IsaacCavallaro/Isaa
 
 # Slidedeck 
 
-A link to the slide presentation can be found here
+A link to the slide presentation can be found [here](https://github.com/IsaacCavallaro/IsaacCavallaro_T1A2/blob/master/Presentation/portfolio-slide-presentation.pdf).
 
 # Tech Stack
 
