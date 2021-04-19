@@ -49,7 +49,7 @@ nav .current-page{
 
 /******HOME PAGE*******/
 /*home page*/
-.context {
+.context{
   color: black;
   width: 100%;
   display: flex;
@@ -118,7 +118,11 @@ nav .current-page{
 /*about page profile image*/
 .image-container{
   margin-top: 50px;
-  background-color: #333;
+  background:
+  linear-gradient(#333, transparent),
+  linear-gradient(to top left, #EAE8FF, transparent),
+  linear-gradient(to top right, #999CF0, transparent);
+background-blend-mode: screen;
 }
 
 .profile-image{
