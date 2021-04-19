@@ -9,7 +9,7 @@
 }
 
 /*******FIXED TOP NAV*******/
-nav {
+nav{
   background-color: black;
   top: 0;
   position: fixed;
@@ -19,7 +19,7 @@ nav {
   overflow: hidden;
 }
 
-nav ul {
+nav ul{
   display: inline-flex;
   flex-direction: row;
   list-style: none;
@@ -27,7 +27,7 @@ nav ul {
 }
 
 /* Nav text */
-nav a {
+nav a{
   display: block;
   padding: 1rem .5rem 0 .5rem;
   text-decoration: none;
@@ -35,7 +35,7 @@ nav a {
 }
 
 /* Nav hovering effect*/
-nav li:hover {
+nav li:hover{
   text-decoration: underline; 
 }
 
@@ -61,7 +61,7 @@ nav .current-page{
 }
 
 /*animating background*/
-@keyframes pulse {
+@keyframes pulse{
   0% {
     background-color: #ffffff;
   }
@@ -306,8 +306,7 @@ nav .current-page{
   display: flex;
   flex-direction: row;
   justify-content: center;
-  margin-top: 80px;
-  margin-bottom: 0px;
+  margin: 80px 0 0 0;
 }
 
 /* Contact short paragraph*/
@@ -325,8 +324,7 @@ input[type=text], select, textarea {
   border: 1px solid #333; 
   border-radius: 4px; 
   box-sizing: border-box; 
-  margin-top: 6px; 
-  margin-bottom: 16px; 
+  margin: 6px 0 16px 0; 
   resize: vertical; 
 }
 
@@ -348,16 +346,12 @@ input[type=submit]:hover {
   border-radius: 5px;
   background-color: #eee;
   padding: 20px;
-  margin-top: 20px;
-  margin-right: 0px;
-  margin-bottom: 20px;
-  margin-left: 10px;
+  margin: 20px 0px 20px 10px;
 }
 
 /*social media icons section*/
 .social-footer{
-  margin-left: 50px;
-  margin-right: 50px;
+  margin: 0 50px 0 50px;
 }
 
 /*social media icons*/
