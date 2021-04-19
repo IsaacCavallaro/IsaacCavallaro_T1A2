@@ -328,7 +328,7 @@ input[type=text], select, textarea{
   resize: vertical; 
 }
 
-input[type=submit] {
+input[type=submit]{
   background-color: #333;
   color: white;
   padding: 12px 20px;
@@ -336,13 +336,12 @@ input[type=submit] {
   cursor: pointer;
 }
 
-
-input[type=submit]:hover {
+input[type=submit]:hover{
   background-color: #eee;
   color: #333;
 }
 
-.contact-container {
+.contact-container{
   border-radius: 5px;
   background-color: #eee;
   padding: 20px;
@@ -363,7 +362,7 @@ input[type=submit]:hover {
   text-decoration: none;
 }
 
-.fa {
+.fa{
   background-color: #333;
   color: #eee;
   padding: 20px;
@@ -438,7 +437,6 @@ input[type=submit]:hover {
     margin: 10px 20px 20px 20px;
   }
 
-
 /* Media changes starting at 600px screen sizes */
 @media screen and (min-width: 600px) {
 
@@ -501,7 +499,6 @@ input[type=submit]:hover {
   .contact-container{
     margin-top: 50px 800px 20px 400px;
   }
-
 }
 
 /*Desktop*/
