@@ -35,7 +35,7 @@ I designed my portfolio with three princibles in mind:
 - Accessible
 - Responsive
 
-A link to the wireframes can be found [here]:(https://github.com/IsaacCavallaro/IsaacCavallaro_T1A2/tree/master/Resources/docs/Wireframes)
+A link to the wireframes can be found [here](https://github.com/IsaacCavallaro/IsaacCavallaro_T1A2/tree/master/Resources/docs/Wireframes).
 
 # Screenshots
 
