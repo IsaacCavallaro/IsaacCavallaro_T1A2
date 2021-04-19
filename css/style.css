@@ -151,6 +151,12 @@ nav .current-page{
 }
 
 /******PORTFOLIO PAGE*******/
+
+/*Nav index*/
+.nav-index{
+  z-index: 99;
+}
+
 /*portfolio page container*/
 .portfolio-page{
   padding-left: 2rem;
