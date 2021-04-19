@@ -26,7 +26,7 @@ The target audience for this portfolio website is employers looking to engage wi
 
 # Functionality/Features
 
-- Responsive top navbar.
+- Responsive and fixed top navbar.
 - Active pages differentiated with underline and colour changes.
 - Home page colour changing animation (slow/gentle).
 - Links to professional work.
