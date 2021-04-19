@@ -45,6 +45,10 @@ A link to the data flow site map can be found [here](https://github.com/IsaacCav
 
 A link to screenshots can be found [here](https://github.com/IsaacCavallaro/IsaacCavallaro_T1A2/tree/master/Resources/docs/site%20screenshots).
 
+# Slidedeck 
+
+A link to the slide presentation can be found here
+
 # Tech Stack
 
 - HTML

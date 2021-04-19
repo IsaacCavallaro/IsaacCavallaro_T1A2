@@ -29,9 +29,7 @@ nav ul {
 /* Nav text */
 nav a {
   display: block;
-  padding-top: 1rem;
-  padding-right: .5rem;
-  padding-left: .5rem;
+  padding: 1rem .5rem 0 .5rem;
   text-decoration: none;
   color:#ADACB5;
 }
