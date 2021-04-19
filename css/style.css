@@ -140,15 +140,11 @@ nav .current-page{
   justify-content: center;
   border: solid #333 1px;
   border-radius: 10px;
-  margin-left: 5rem;
-  margin-right: 5rem;
-  margin-top: 2rem;
-  margin-bottom: 10rem;
+  margin: 2rem 5rem 10rem 5rem;
   padding: 2rem;
 }
 
 /******PORTFOLIO PAGE*******/
-
 /*Nav index*/
 .nav-index{
   z-index: 99;
@@ -156,9 +152,7 @@ nav .current-page{
 
 /*portfolio page container*/
 .portfolio-page{
-  padding-left: 2rem;
-  padding-right: 2rem;
-  padding-top: 0px;
+  padding: 0 2rem 0 2rem;
   margin-top: 0px;
 }
 
