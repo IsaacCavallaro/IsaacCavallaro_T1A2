@@ -334,8 +334,11 @@ nav .current-page{
   color: #333;
   display: flex;
   flex-direction: row;
-  justify-content: center;
+  justify-content: center; 
   margin: 80px 0 0 0;
+  font-size: 25px;
+  border: solid 1px #333;
+ 
 }
 
 /* Contact short paragraph*/
@@ -535,16 +538,9 @@ input[type=submit]:hover{
 }
 
 /*Desktop*/
-@media screen and ( min-width: 1020px ) {
-  .image-container{
-    display: flex;
-    justify-content: center;
-  }
-
-  /*about page image*/
-  .profile-image{ 
-    width: 50%; 
-    margin-top: 1rem;
+@media screen and ( min-width: 1025px ) {
+  nav a{
+    font-size: 20px;
   }
 
   /*Blog cards*/
