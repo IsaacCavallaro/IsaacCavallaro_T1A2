@@ -173,10 +173,11 @@ nav .current-page{
   flex-wrap: wrap;
   margin-top: 60px;
 }
-
+/*Titles above portfolio images*/
 .item-titles{
   display: flex;
   justify-content: center;
+  padding-bottom: 5px;
 }
 
 /*portfolio item 1*/
@@ -289,7 +290,6 @@ nav .current-page{
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  margin: 5%;
   padding: .5%;
 }
 
