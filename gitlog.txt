@@ -1,0 +1,623 @@
+commit 8100b9b53ced50405eafa34dc39eb592958ac149
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Tue Apr 20 13:29:52 2021 +1000
+
+    updating sides and site map
+
+commit 097c336d1da34d5dd50918fdd78c39cd00a4cb26
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Tue Apr 20 09:20:40 2021 +1000
+
+    updating readme and slides
+
+commit a9420a2e7c57c21ed96a15db3698ae184dfe7634
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Mon Apr 19 23:11:22 2021 +1000
+
+    cleaning html
+
+commit ddbab7eaf2fc4152936e5d0722847e066b4695e3
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Mon Apr 19 23:00:52 2021 +1000
+
+    updating readme doc
+
+commit 89721ca81e1d895a549c757365c840fcc80c7b94
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Mon Apr 19 22:59:36 2021 +1000
+
+    adding new powerpoint pdf
+
+commit 9145b793072129241c03a8b155b572cebffcd46b
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Mon Apr 19 22:38:55 2021 +1000
+
+    cleaning css
+
+commit 2d3afd885a03e735ba6011fd5e0807a28fa9f641
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Mon Apr 19 22:33:34 2021 +1000
+
+    updating readme doc
+
+commit 432d33e315b4b7d4d4384b97abd3548e747c86f2
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Mon Apr 19 22:32:13 2021 +1000
+
+    updating readme doc
+
+commit be6da53922b62aafb38d2fc4c5c7f6f339beebf5
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Mon Apr 19 22:30:05 2021 +1000
+
+    adding slide presentation
+
+commit 40aa141b0b60eaf6546a9f795a0fadd59a76d424
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Mon Apr 19 21:51:47 2021 +1000
+
+    adding comments to html and cleaning code
+
+commit d1817aa5ca1a96a744147c200a2ce99eef3aaebc
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Mon Apr 19 21:39:26 2021 +1000
+
+    cleaning css
+
+commit 2f759235d2310a5265707aea07f5f9abb8c16e92
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Mon Apr 19 21:15:30 2021 +1000
+
+    cleaning css
+
+commit e8e6e08c5103b9e51fce1bebebcfe2adb83c91c1
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Mon Apr 19 20:14:48 2021 +1000
+
+    cleaning css
+
+commit 8827a5d68b6bc2776050945bdeb129ba5967bc95
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Mon Apr 19 20:11:40 2021 +1000
+
+    tidying up css
+
+commit 1c97ce168d6981fd5a7f10c7f3e7f6fd2bba7d88
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Mon Apr 19 16:35:22 2021 +1000
+
+    updating readme doc
+
+commit 8ef0f6a1d68b9d6d8ea6c3d1c3dbbe769e3f2f70
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Mon Apr 19 16:34:14 2021 +1000
+
+    updating readme doc
+
+commit ee17d6a133d032a85cbb49c04de2ab4fb8b9972d
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Mon Apr 19 16:30:48 2021 +1000
+
+    updating readme doc
+
+commit 4c01afe46513aa6dc2b98b17bbc4a037580985c6
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Mon Apr 19 16:28:35 2021 +1000
+
+    updating screenshots
+
+commit 1d5a76c49033ad810c45a1cf96ca3f4e8bb1b984
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Mon Apr 19 16:25:34 2021 +1000
+
+    updating readme doc
+
+commit a07ce4dee1d3c11e50c160038d2d4aa54f150e57
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Mon Apr 19 16:22:04 2021 +1000
+
+    adding comments to css
+
+commit b1bbd89080daf57329a3a4d72504c12685af6154
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Mon Apr 19 16:02:28 2021 +1000
+
+    updating background colour
+
+commit 63c3d626911f8fe8123fa1d3db1743dfaadbfbcd
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Mon Apr 19 16:00:51 2021 +1000
+
+    updating blog image sizes
+
+commit 95e61655441170815b6f66e30fb0ea3525749489
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Mon Apr 19 15:49:27 2021 +1000
+
+    updating background colour
+
+commit 8fc61d0e032b76df85c2d913f99a9f255466a483
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Mon Apr 19 15:41:35 2021 +1000
+
+    changing background to about page
+
+commit 575472d8abb7dd6a6e659ccae6cedaf8e19b47ce
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Mon Apr 19 14:46:51 2021 +1000
+
+    updating readme doc
+
+commit fab834f4cf0746fa8570bfaee3cfd0f311f37463
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Mon Apr 19 14:45:48 2021 +1000
+
+    updating readme doc
+
+commit b43747f81b456f5217e1d3bf524d2d36f146aabf
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Mon Apr 19 14:33:05 2021 +1000
+
+    cleaning directories
+
+commit 4b6f6b568f0b1b81e440d6e037470e8d2ef7cf88
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Mon Apr 19 14:12:23 2021 +1000
+
+    adding cv to about page
+
+commit d956c2739b33f2ffbde5ea906d261ebac0001992
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Mon Apr 19 14:01:14 2021 +1000
+
+    updating html code
+
+commit 1e6680b95d79a0af62d72048c262d86ec23844a9
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Mon Apr 19 13:50:14 2021 +1000
+
+    adjusting icon style
+
+commit ca984959d77a420228f7ce800e49872ca0cea6ba
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Mon Apr 19 13:43:43 2021 +1000
+
+    styling social icons
+
+commit 00ce54ca34a2705d82d918a70f601af61418aa97
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Mon Apr 19 13:38:04 2021 +1000
+
+    adding social media icons to contact page
+
+commit 365c17d8a9c2600bf854aa6541041aeec2d679b0
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Mon Apr 19 13:06:54 2021 +1000
+
+    adding cv button to about page
+
+commit e7a6c7a508646a80a4133c6a4ab034612c5cf963
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Mon Apr 19 11:16:09 2021 +1000
+
+    adding z index to nav on portfolio page
+
+commit ff517f384465f64d0af62559978f43b4e10df6f0
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Mon Apr 19 10:59:07 2021 +1000
+
+    updating readme doc
+
+commit a5188f9e613b9781853249c6ecc84e125b132fab
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Mon Apr 19 10:52:51 2021 +1000
+
+    updating readme and documentation
+
+commit f036d928631404aab1a2d38705260d83a693fb63
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Sun Apr 18 21:19:22 2021 +1000
+
+    updating portfolio page
+
+commit 76a2e544a0c34f81dc94bb2925629454d52b1a3d
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Sun Apr 18 21:14:36 2021 +1000
+
+    adding titles to portfolio page
+
+commit d9435238fdd99cbf1a87000e368eaa325fa61aab
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Sun Apr 18 21:08:32 2021 +1000
+
+    Adding headings to blog page and tidying html
+
+commit ffdcf1a4173cb7ef27bf47cccefa8e37aae1c641
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Sun Apr 18 21:02:36 2021 +1000
+
+    updating blog page response
+
+commit a91e3cddec64cee4a435449b1b002bc8d4e8f943
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Sun Apr 18 12:49:36 2021 +1000
+
+    updating about page html
+
+commit b32bbfdf63e25a7fedad4cfc5a0b360616bf0f7f
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Sun Apr 18 12:44:42 2021 +1000
+
+    adding line breaks to blog html
+
+commit 8f04805061ebc7ed5d6da32e1f366c272638fc85
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Sun Apr 18 12:42:17 2021 +1000
+
+    adjusting respinsive properties on blog page
+
+commit e083789c6b3527a043c19286299b9a9438c98076
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Sun Apr 18 12:23:31 2021 +1000
+
+    blog image responsive size adjustments
+
+commit c55f5c80b68d5346b915f3b4832805f134e421fb
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Sun Apr 18 10:23:54 2021 +1000
+
+    About page update
+
+commit b8a37bbd08eaa1b142561b198f01760f90ad00c1
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Sun Apr 18 09:44:53 2021 +1000
+
+    updating portfolio and blog pages
+
+commit 2df64777bc3563b2d982d7e0edf61c7a8b592e3f
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Sat Apr 17 13:24:03 2021 +1000
+
+    updating about me content
+
+commit 3d8be3039be07cd054243e27c3b46e692fdd733f
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Sat Apr 17 13:20:09 2021 +1000
+
+    adding colour to about page
+
+commit 8e867a7c70a7916873fe857899f26fc607f294ec
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Sat Apr 17 13:10:56 2021 +1000
+
+    updating portfolio page
+
+commit 684d4dd7b60e7f5f7c58ec366192a4043f63b666
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Sat Apr 17 13:02:28 2021 +1000
+
+    Updating about page
+
+commit 4dfe05580b742a3fc90d012202bbee7d3a8512dc
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Sat Apr 17 12:31:11 2021 +1000
+
+    changing background on about-content
+
+commit c8955cead612063d6f3b9a95049bdfd1758d05a2
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Sat Apr 17 11:14:11 2021 +1000
+
+    removing blog container border on mobile devices
+
+commit 8d5171b61d9094d645859bab177677ba997f74a7
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Sat Apr 17 11:10:27 2021 +1000
+
+    updating readme doc
+
+commit b1afea313743ac8f3d6b3ebdede6e1acb6d9a71f
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Sat Apr 17 10:59:19 2021 +1000
+
+    readme doc updates
+
+commit ac9242cbfb31abfc1a8a8075365880142d13bf83
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Sat Apr 17 10:54:38 2021 +1000
+
+    updating readme doc
+
+commit 81404f69eaa315ed635218c0a27cff1b02c4b678
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Sat Apr 17 10:25:17 2021 +1000
+
+    responsive experimenting on contact page
+
+commit 66cadae6ae2b7ca114de5950dcd9a54117306cb8
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Sat Apr 17 10:20:22 2021 +1000
+
+    adding responsive design to contact container
+
+commit c731e91a6a823a1b8099c667d664736ad0662b78
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Sat Apr 17 10:09:40 2021 +1000
+
+    changing hover and text for contact submit button
+
+commit c26986641dbffbd9a8787689612c4c9d1190ef05
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Sat Apr 17 10:05:06 2021 +1000
+
+    Adding header to contact page and adjusting colours
+
+commit 9873f0f27a4082cfab38b43f808a6eefbf16f29c
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Sat Apr 17 09:55:46 2021 +1000
+
+    removig z-index and adjusting context selector
+
+commit cbdf69f8474434486578394780ca30b9b960eadc
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Thu Apr 15 20:52:15 2021 +1000
+
+    home page animation time changes
+
+commit e5056ec92b5cb0ad26d539b860c26f558b220524
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Thu Apr 15 20:44:34 2021 +1000
+
+    more changes to animation
+
+commit 2c50b1b957762253ee6d051e80e689b49850bb16
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Thu Apr 15 20:42:13 2021 +1000
+
+    slowing down transition on home page
+
+commit d38fafd5bf98ac8fc32ead84244bb68552d0787b
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Thu Apr 15 20:37:42 2021 +1000
+
+    animating home page
+
+commit 7543db10c5b476ab4e1ba65019ae26618b3c6991
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Thu Apr 15 20:12:06 2021 +1000
+
+    home page title size adjustments
+
+commit cb97fe3009978e4aac012ddb44518fa1b79e32c6
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Thu Apr 15 20:08:18 2021 +1000
+
+    checking portfolio logo images
+
+commit fcb8168a25e541d85dd91e8e5840079c8f319f60
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Thu Apr 15 19:56:50 2021 +1000
+
+    making page borders thinner
+
+commit ddd5cd961ea23bdee0e60b7aa9273db4f7f1967a
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Thu Apr 15 19:53:48 2021 +1000
+
+    Adjusting sizes of display text on home page
+
+commit e7aaf38626d241e3a7e962155a7e4a5cf7cd7d74
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Thu Apr 15 19:47:16 2021 +1000
+
+    Adjusting breakpoints for logo on home page
+
+commit 563d298d41dd1028dc166b01c99ac3c177d49244
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Thu Apr 15 19:29:27 2021 +1000
+
+    updating readme doc
+
+commit 487fe8884afd52d2475fc8be8e16b3c0a71b2b44
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Thu Apr 15 19:24:29 2021 +1000
+
+    updating readme doc
+
+commit e4f4dd3f5d5568aeeec524cbfb90dba8aa05b6aa
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Thu Apr 15 19:23:01 2021 +1000
+
+    Updating readme doc
+
+commit a6b0e493a02f2304a667e520a26bece197a6b7cc
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Thu Apr 15 18:24:45 2021 +1000
+
+    experimenting with contact page layout for multiple screen sizes
+
+commit b2c8c08c60aa128b951f22a21168a675b908d967
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Thu Apr 15 18:17:38 2021 +1000
+
+    removing headings for a cleaner display
+
+commit 6a324d1d92c7f3513299654f3d8a8e936235a062
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Thu Apr 15 18:11:47 2021 +1000
+
+    editing media queries for about content response design
+
+commit 84a218634a5e8b33fc7dd427d6467c3107129bc7
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Thu Apr 15 17:56:26 2021 +1000
+
+    adding colour etc on nav display page for user experience
+
+commit ccf133f110eaa668250060b0989c093354d972b4
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Thu Apr 15 17:47:59 2021 +1000
+
+    Adding current page style to nav bar for replacing headings
+
+commit d283d9600ea2bb0db2d1b3e296e466e90b9a2ab3
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Thu Apr 15 17:38:18 2021 +1000
+
+    removing headings on portfolio and blog pages
+
+commit 51c1174cb5481ca309809435fc1f4e9f875747b7
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Thu Apr 15 17:27:30 2021 +1000
+
+    making changes to css
+
+commit 4a452e61fb5d9aee17127881f2d1469d8105d549
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Thu Apr 15 15:04:48 2021 +1000
+
+    making changes to about page text and format
+
+commit d9e6bd0b725fa1c907d6a3b487dc2620fdd6a345
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Thu Apr 15 14:20:20 2021 +1000
+
+    Cleaning up the home page
+
+commit ae0422c305e8d85a1d466ce03703907461d14672
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Thu Apr 15 14:01:25 2021 +1000
+
+    adding logo variations to portfolio place holders and text on home page
+
+commit de9e9c545b8ca95183a9f559c06e85e160fc14b9
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Thu Apr 15 12:59:22 2021 +1000
+
+    Adding titles to home page
+
+commit e931b87b41af37fb95708080979f5a9a5f73bba3
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Thu Apr 15 12:35:18 2021 +1000
+
+    removing hover effect on home page
+
+commit 06efe7bf2130af0bbea3e208d816a362d520ab7d
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Wed Apr 14 14:24:15 2021 +1000
+
+    Adding one more blog post
+
+commit 51edf26df9fc3a2ab01158886b0d2dbf906ecd70
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Wed Apr 14 14:18:49 2021 +1000
+
+    touching up contact page and rounding out boarders
+
+commit 11107a3f490dc3916b773f61521acc92056632d4
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Wed Apr 14 14:13:18 2021 +1000
+
+    editing blog post text
+
+commit b9c7b31b0fc10b8dc7d83f525d661ac7977b04c3
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Wed Apr 14 14:01:50 2021 +1000
+
+    Design work on blog page
+
+commit 69cf253463cadead4d985fa6a8318d8889c41768
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Wed Apr 14 13:27:50 2021 +1000
+
+    Blog page layout experimenting
+
+commit b772511ccb5d72aeb208e6a2f7a9243f16695ef4
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Wed Apr 14 12:59:24 2021 +1000
+
+    More experimenting on blog page responsive design
+
+commit ddc9a8af8eb5507942a7bd40b99e1de5d1b156a2
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Wed Apr 14 12:39:47 2021 +1000
+
+    More experienments with blog responsive design
+
+commit 35bc08cdbc620962820f4e563dc4d5b226b6d085
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Wed Apr 14 12:26:57 2021 +1000
+
+    Updating Readme doc
+
+commit 81f9e911d8342ba17cd1a710409517482093498f
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Wed Apr 14 12:25:47 2021 +1000
+
+    Updating Readme Doc
+
+commit 4cd791078b92ec65b4ff68cf671e6fdbb639d4e2
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Wed Apr 14 11:20:00 2021 +1000
+
+    experiementing with mobile design media queries for blog page
+
+commit e730a0f275cc1e8409823e75a84f76f175e101a6
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Wed Apr 14 10:45:39 2021 +1000
+
+    Adding style and responsive design to blog page
+
+commit 205a821be35d6e12b95f8dc0510238a0f7e8f29a
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Wed Apr 14 10:09:10 2021 +1000
+
+    Experimenting with Media queries on blog page
+
+commit 1b08a3ab6b5e417f5f6e5842c520eded303aaeb0
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Wed Apr 14 09:51:12 2021 +1000
+
+    Adding more responsive design to the blog page
+
+commit 77fb447461d037e704b9327651135d97f6f58de6
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Wed Apr 14 09:34:34 2021 +1000
+
+    Styling blog page for iPhone 5 screen size
+
+commit e01bd8aa1c35d29fc793f5d172dafe4fc446d86c
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Wed Apr 14 09:23:20 2021 +1000
+
+    Making the blog page more responsive
+
+commit 40ae5ac7ffeed8bbca84f234100b29fc63c356cb
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Tue Apr 13 17:44:41 2021 +1000
+
+    Trying new Repsonsive solutions to Blog and Portfolio Pages
+
+commit 256d9f590fb1e470071f434eabf2e8fa932a320d
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Tue Apr 13 16:32:25 2021 +1000
+
+    making changes to blog page
+
+commit f8fc6909dd3681e2f586a8677c23ea7cf83c98a1
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Tue Apr 13 16:09:53 2021 +1000
+
+    Adding Netlify and Repo links
+
+commit 83e953009a8ab3619dd3d2a1cb15f8370aa7642c
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Tue Apr 13 15:47:47 2021 +1000
+
+    Updating readme doc
+
+commit 98d68967a5baaed733255d787a0cb7da6c3f5409
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Tue Apr 13 15:34:20 2021 +1000
+
+    initial commit

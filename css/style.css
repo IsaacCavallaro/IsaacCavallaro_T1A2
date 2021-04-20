@@ -48,7 +48,6 @@ nav .current-page{
 /******HOME PAGE*******/
 /*home page*/
 .context{
-  color: black;
   width: 100%;
   display: flex;
   flex-direction: column;
@@ -140,7 +139,6 @@ nav .current-page{
   justify-content: center;
   border: solid #333 1px;
   border-radius: 10px;
-  margin: 2rem 5rem 10rem 5rem;
   padding: 2rem;
 }
 
@@ -357,15 +355,16 @@ input[type=submit]:hover{
 .social-icons{
   display: flex;
   justify-content: center;
-  font-size: 30px;
+  font-size: 15px;
   text-align: center;
   text-decoration: none;
+  margin-bottom: 10px;
 }
 
 .fa{
   background-color: #333;
   color: #eee;
-  padding: 20px;
+  padding: 10px;
   text-align: center;
   text-decoration: none;
 }
