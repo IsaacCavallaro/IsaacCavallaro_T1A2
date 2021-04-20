@@ -20,6 +20,7 @@ nav{
   text-transform: uppercase;
 }
 
+/* Nav unordered list */
 nav ul{
   display: inline-flex;
   flex-direction: row;
@@ -43,7 +44,7 @@ nav li:hover{
 
 /* Nav display current page */
 nav .current-page{
-  color: #CED4DA;
+  font-weight: bolder;
   text-decoration: underline;
 }
 
@@ -61,7 +62,7 @@ nav .current-page{
   animation: pulse 40s infinite;
 }
 
-/*animating background*/
+/*animating background homepage*/
 @keyframes pulse{
   0% {
     background-color: #212529;
@@ -182,6 +183,7 @@ nav .current-page{
   margin-top: 0px;
 }
 
+/*container of portfolio items*/
 .portfolio-container{
   border: solid 1px #333;
   border-radius: 10px;
@@ -324,6 +326,7 @@ nav .current-page{
   padding: 1rem;
   background-color: #495057;
   color: #eee;
+  border: solid 1px #eee;
 }
 
 
@@ -435,7 +438,7 @@ input[type=submit]:hover{
     width: 20rem;
     padding-bottom: 1rem;
     margin: 1rem;
-    border: #333 solid 1px;
+    border: solid 1px #eee;
   }
 
   .blog-container{
@@ -523,7 +526,7 @@ input[type=submit]:hover{
     padding-bottom: 1rem;
     margin: 5px;
     width: 40rem;
-    border: #333 solid 1px;
+    border: solid 1px #eee;
   }
 
   .about-content{
@@ -555,6 +558,7 @@ input[type=submit]:hover{
     width: 40%; 
     padding-bottom: 1rem;
     margin: 1rem;
+    border: solid 1px #eee;
   }
 
   .blog-images{
