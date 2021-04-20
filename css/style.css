@@ -180,6 +180,7 @@ nav .current-page{
   justify-content: center;
   flex-wrap: wrap;
   margin-top: 2rem;
+  background-color: #333;
 }
 /*Titles above portfolio images*/
 .item-titles{
