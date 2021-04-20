@@ -142,6 +142,17 @@ nav .current-page{
   padding: 2rem;
 }
 
+/*CV link*/
+.about-content a{
+  border: solid 1px #333;
+  font-size: 15px;
+  border-radius: 10%;
+  padding: 5px;
+  text-decoration: none;
+  color:#eee;
+  background-color: #333;
+}
+
 /******PORTFOLIO PAGE*******/
 /*Nav index*/
 .nav-index{
