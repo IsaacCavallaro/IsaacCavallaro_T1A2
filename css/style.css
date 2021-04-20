@@ -17,6 +17,7 @@ nav{
   width: 100%;
   height: 55px;
   overflow: hidden;
+  text-transform: uppercase;
 }
 
 nav ul{
@@ -32,6 +33,7 @@ nav a{
   padding: 1rem .5rem 0 .5rem;
   text-decoration: none;
   color:#eee;
+  font-size: 10px;
 }
 
 /* Nav hovering effect*/
@@ -108,7 +110,9 @@ nav .current-page{
 /*home page logo image*/
 .logo_home_page{
   width: 200px;
-  margin-bottom: 5px;
+  margin-bottom: 25px;
+  border: #333 5px solid;
+  border-radius: 50%;
 }
 
 /*******ABOUT PAGE*******/
@@ -443,8 +447,8 @@ input[type=submit]:hover{
   /*Name home page*/
   .home_title{
     color: #333;
-    font-size: 12px;
-    padding: 0px;
+    padding: 0;
+
   }
 
   /*Stack home page*/
@@ -488,8 +492,8 @@ input[type=submit]:hover{
   }
 
   .logo_home_page{
-    width: 400px;
-    margin-bottom: 5px;
+    width: 300px;
+    margin-bottom: 10px;
   }
 
   .blog-container-container{
