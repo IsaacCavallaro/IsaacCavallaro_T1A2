@@ -186,7 +186,8 @@ nav .current-page{
 .item-titles{
   display: flex;
   justify-content: center;
-  padding-bottom: 5px;
+  padding-bottom: 2rem;
+  color: #eee;
 }
 
 /*portfolio item 1*/
