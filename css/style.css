@@ -31,7 +31,7 @@ nav a{
   display: block;
   padding: 1rem .5rem 0 .5rem;
   text-decoration: none;
-  color:#ADACB5;
+  color:#eee;
 }
 
 /* Nav hovering effect*/
@@ -41,7 +41,7 @@ nav li:hover{
 
 /* Nav display current page */
 nav .current-page{
-  color: #EAE8FF;
+  color: #CED4DA;
   text-decoration: underline;
 }
 
@@ -312,7 +312,11 @@ nav .current-page{
 /* Changes to all blog cards */
 .card{
   padding: 1rem;
-  background-color: #eee;
+  background-color: #495057;
+  color: #eee;
+}
+
+
 }
 
 .card h2{
