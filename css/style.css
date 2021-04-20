@@ -127,6 +127,10 @@ nav .current-page{
     border: #333 solid 5px;
 }
 
+#about_headings{
+  font-size: 2rem;
+}
+
 /*about page container of content*/
 .content-container{
   display: flex;
@@ -579,10 +583,14 @@ input[type=submit]:hover{
 
   .about-content{
     margin: 2rem;
-    width: 40%;
+    width: 70%;
   }
 
   .contact-container{
     margin: 2rem 20rem 2rem 20rem;
+  }
+
+  #about_headings{
+    font-size: 10rem;
   }
 }
