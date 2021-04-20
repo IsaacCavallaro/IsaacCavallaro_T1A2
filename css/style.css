@@ -10,7 +10,7 @@
 
 /*******FIXED TOP NAV*******/
 nav{
-  background-color: black;
+  background-color: #333;
   top: 0;
   position: fixed;
   grid-area: nav;
@@ -66,7 +66,7 @@ nav .current-page{
   }
 
   50% {
-    background-color: #999CF0;
+    background-color: #38023B;
   }
 
   100% {
@@ -115,7 +115,7 @@ nav .current-page{
 /*about page profile image*/
 .image-container{
   margin-top: 50px;
-  background:#333;
+  background:#fff;
 }
 .profile-image{
     height: auto;
@@ -123,23 +123,25 @@ nav .current-page{
     border: #333 solid 5px;
 }
 
-/*about page title text*/
+/*about page container of content*/
 .content-container{
   display: flex;
   flex-direction: column;
   justify-content: center;
   width: 100%;
+  background-color: #333;
 }
 
 /*about page content text para 1*/
 .about-content{
-  color: #333;
+  color: #eee;
   display: flex;
   flex-direction: column;
   justify-content: center;
   border: solid #333 1px;
   border-radius: 10px;
   padding: 2rem;
+  background-color: #495057;
 }
 
 /*CV link*/
