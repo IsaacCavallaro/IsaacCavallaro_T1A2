@@ -62,15 +62,15 @@ nav .current-page{
 /*animating background*/
 @keyframes pulse{
   0% {
-    background-color: #ffffff;
+    background-color: #212529;
   }
 
   50% {
-    background-color: #38023B;
+    background-color: #fff;
   }
 
   100% {
-    background-color: #ffffff ;
+    background-color: #212529;
   }
 }
 
@@ -300,6 +300,7 @@ nav .current-page{
   justify-content: center;
   flex-wrap: wrap;
   padding: .5%;
+  background-color: #333;
 }
 
 /* Blog images */
@@ -311,6 +312,7 @@ nav .current-page{
 /* Changes to all blog cards */
 .card{
   padding: 1rem;
+  background-color: #eee;
 }
 
 .card h2{
