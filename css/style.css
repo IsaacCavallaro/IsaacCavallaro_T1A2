@@ -543,11 +543,11 @@ input[type=submit]:hover{
   }
 
   #about_headings{
-    font-size: 7rem;
+    font-size: 5rem;
   }
 }
 
-/*Desktop*/
+/* Media changes starting at 1025px screen sizes */
 @media screen and ( min-width: 1025px ) {
   nav a{
     font-size: 15px;
@@ -573,7 +573,6 @@ input[type=submit]:hover{
     border: solid #333 5px;
   }
 
-
   .blog-container-container{  
     width: 100%;
     display: inline-flex;
@@ -598,6 +597,6 @@ input[type=submit]:hover{
   }
 
   #about_headings{
-    font-size: 10rem;
+    font-size: 8rem;
   }
 }
