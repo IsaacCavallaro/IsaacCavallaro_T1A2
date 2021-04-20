@@ -353,6 +353,7 @@ input[type=text], select, textarea{
   resize: vertical; 
 }
 
+/* submit button*/
 input[type=submit]{
   background-color: #333;
   color: white;
@@ -361,20 +362,22 @@ input[type=submit]{
   cursor: pointer;
 }
 
+/* submit button*/
 input[type=submit]:hover{
   background-color: #eee;
   color: #333;
 }
 
+/*contact container*/
 .contact-container{
   border-radius: 5px;
-  background-color: #eee;
+  background-color: #333;
   padding: 20px;
   margin: 20px 0px 20px 10px;
 }
 
 /*social media icons section*/
-.social-footer{
+.social-icon-container{
   margin: 0 50px 0 50px;
 }
 
