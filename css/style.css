@@ -540,7 +540,7 @@ input[type=submit]:hover{
 /*Desktop*/
 @media screen and ( min-width: 1025px ) {
   nav a{
-    font-size: 20px;
+    font-size: 15px;
   }
 
   /*Blog cards*/
