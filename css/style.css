@@ -159,6 +159,11 @@ nav .current-page{
   font-size: 25px;
 }
 
+/*hello there styling*/
+.about-hello-there{
+  font-size: 25px;
+}
+
 /*CV link*/
 .about-content a{
   border: solid 1px #333;
