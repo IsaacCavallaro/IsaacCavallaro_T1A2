@@ -9,6 +9,7 @@
   text-align: center;
 }
 
+/*******LIST STYLING*******/
 li{
   list-style-type: none;
 }
@@ -82,6 +83,7 @@ nav .current-page{
   }
 }
 
+/*home page title parent div container*/
 .title-parent-container{
   display: flex;
   flex-direction: column;
@@ -89,6 +91,7 @@ nav .current-page{
   align-items: center;
 }
 
+/*home page title child div container*/
 .title_container{
   border-radius: 10px;
   display: inline-flex;
@@ -122,18 +125,20 @@ nav .current-page{
 }
 
 /*******ABOUT PAGE*******/
-/*about page profile image*/
+/*about page profile image container*/
 .image-container{
   margin-top: 50px;
   background:#fff;
 }
 
+/*about page profile image container*/
 .profile-image{
     height: auto;
     width: 100%;    
     border: #333 solid 5px;
 }
 
+/*about page headings*/
 .about-headings{
   font-size: 2.5rem;
 }
@@ -149,7 +154,7 @@ nav .current-page{
   margin-top: 50px;
 }
 
-/*about page content text para 1*/
+/*about page content text paragraph 1*/
 .about-content{
   color: #eee;
   display: flex;
@@ -161,17 +166,17 @@ nav .current-page{
   background-color: #495057;
 }
 
-/*bachelor masters diploma styling*/
+/*Education degree styling*/
 .education-styling{
   font-size: 25px;
 }
 
-/*hello there styling*/
+/*about page 'hello there' styling*/
 .about-hello-there{
   font-size: 25px;
 }
 
-/*CV link*/
+/*CV hyperlink*/
 .about-content a{
   border: solid 1px #333;
   font-size: 15px;
@@ -346,7 +351,7 @@ nav .current-page{
   border: solid 1px #eee;
 }
 
-
+/* Blog heading */
 .blog-card h2{
   text-decoration: none;
 }
@@ -415,7 +420,7 @@ input[type=submit]:hover{
   margin: 0 50px 0 50px;
 }
 
-/*social media icons*/
+/*social media icons container*/
 .social-icons{
   display: flex;
   justify-content: center;
@@ -425,6 +430,7 @@ input[type=submit]:hover{
   margin-bottom: 10px;
 }
 
+/*social media icons*/
 .fa{
   background-color: #333;
   color: #eee;
@@ -433,20 +439,24 @@ input[type=submit]:hover{
   text-decoration: none;
 }
 
+/*social media icons hover effect*/
 .fa:hover{
   opacity: 0.7;
 }
 
+/*linkedin icon*/
 .fa-linkedin{
   border-radius: 50%;
   margin-right: 5px;
 }
 
+/*youtube icon*/
 .fa-youtube{
   border-radius: 50%;
   margin-right: 5px;
 }
 
+/*github icon*/
 .fa-github{
   border-radius: 50%;
 }
@@ -564,7 +574,6 @@ input[type=submit]:hover{
     font-size: 5rem;
   }
 }
-
 
 /* Media changes starting at 1025px screen sizes */
 @media screen and ( min-width: 1025px ) {
