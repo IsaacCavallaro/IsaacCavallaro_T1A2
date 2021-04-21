@@ -31,7 +31,7 @@ The target audience for this portfolio website is employers looking to engage wi
 
 # Sitemap
 
-I designed my portfolio with three princibles in mind:
+I designed my portfolio with three principles in mind:
 
 - Minimal
 - Accessible
