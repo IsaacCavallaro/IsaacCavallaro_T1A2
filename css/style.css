@@ -109,7 +109,7 @@ nav .current-page{
 }
 
 /*home page logo image*/
-.logo_home_page{
+.logo{
   width: 200px;
   margin-bottom: 25px;
   border: #333 5px solid;
@@ -500,7 +500,7 @@ input[type=submit]:hover{
     height: 50px;
   }
 
-  .logo_home_page{
+  .logo{
     width: 300px;
     margin-bottom: 10px;
   }
