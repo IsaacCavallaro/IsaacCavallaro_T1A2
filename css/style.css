@@ -332,7 +332,7 @@ nav .current-page{
 }
 
 /* Changes to all blog cards */
-.card{
+.blog-card{
   padding: 1rem;
   background-color: #495057;
   color: #eee;
@@ -340,7 +340,7 @@ nav .current-page{
 }
 
 
-.card h2{
+.blog-card h2{
   text-decoration: none;
 }
 
@@ -444,7 +444,7 @@ input[type=submit]:hover{
 /* Media changes starting at 300px screen sizes */
 @media screen and (min-width: 300px) {
   
-  .card{
+  .blog-card{
     width: 20rem;
     padding-bottom: 1rem;
     margin: 1rem;
@@ -531,7 +531,7 @@ input[type=submit]:hover{
     justify-content: center;
   }
 
-  .card{
+  .blog-card{
     padding-bottom: 1rem;
     margin: 5px;
     width: 40rem;
@@ -551,7 +551,7 @@ input[type=submit]:hover{
     margin-top: 50px 800px 20px 400px;
   }
 
-  #about_headings{
+  .about_headings{
     font-size: 5rem;
   }
 }
@@ -563,7 +563,7 @@ input[type=submit]:hover{
   }
 
   /*Blog cards*/
-  .card{
+  .blog-card{
     width: 40%; 
     padding-bottom: 1rem;
     margin: 1rem;
