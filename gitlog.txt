@@ -1,3 +1,27 @@
+commit 4e54705186cdf543ef9a36bd3e0830f90925aedb
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Wed Apr 21 21:02:07 2021 +1000
+
+    adding sri hash and comments to html pages
+
+commit c053cbeaf26cc6f32a57e1f6fd8634dd7e678c0c
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Wed Apr 21 20:40:16 2021 +1000
+
+    updating screenshots and slide presentation
+
+commit ebff525e866df0c9de5fd93994388126abb4d605
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Wed Apr 21 18:19:50 2021 +1000
+
+    updating readme doc
+
+commit 9197f32d281e9534cd6e74941d7b09ac8aac0a02
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Wed Apr 21 18:18:22 2021 +1000
+
+    updating gitlog file
+
 commit e030e6fd7dd0e2fefd1b7492007a881e15fe8cff
 Author: isaaccavallaro <isaaccavallaro@gmail.com>
 Date:   Wed Apr 21 15:25:11 2021 +1000
