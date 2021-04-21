@@ -1,3 +1,4 @@
+/*******imported google fonts*******/
 @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 
 /*******GLOBAL STYLING*******/
@@ -411,6 +412,7 @@ input[type=submit]:hover{
   margin: 20px 0px 20px 10px;
 }
 
+/*First, last and subjects titles on subject form*/
 .contact-form-label{
   color:#eee;
 }
@@ -465,21 +467,24 @@ input[type=submit]:hover{
 /* Media changes starting at 300px screen sizes */
 @media screen and (min-width: 300px) {
   
+  /*blog card*/
   .blog-card{
     width: 20rem;
     padding-bottom: 1rem;
     margin: 1rem;
     border: solid 1px #eee;
   }
-
-  .blog-container{
-    margin: 2%; 
-  }
-
+  /*parent container for blog div*/
   .blog-parent-container{  
     width: 100%;
   }
 
+  /*child container for blog div*/
+  .blog-container{
+    margin: 2%; 
+  }
+
+  /*about page content container*/  
   .about-content{
     margin: 1rem;
   }
@@ -501,10 +506,12 @@ input[type=submit]:hover{
     height: 33px;
   }
 
+  /*Contact page container*/
   .contact-container{
     margin: 15px 20px 20px 20px;
   }
 
+  /*Contact page paragraph*/
   .contact-para{
     margin: 10px 20px 20px 20px;
   }
@@ -530,26 +537,31 @@ input[type=submit]:hover{
     height: 50px;
   }
 
+  /*logo home page*/
   .logo{
     width: 300px;
     margin-bottom: 10px;
   }
 
+  /*Blog page parent container*/
   .blog-parent-container{
     padding: 0;
     width: 100%;
   }
 
+  /*Blog page child container*/
   .blog-container{
     width: 100%;
     height: auto;
   }
 
+  /*Blog page images*/
   .blog-images{
     width: 20rem;
     height: auto;
   }
 
+  /*Blog page cards*/
   .blog-card{
     padding-bottom: 1rem;
     margin: 5px;
@@ -557,36 +569,70 @@ input[type=submit]:hover{
     border: solid 1px #eee;
   }
 
+  /*about page content container*/ 
   .about-content{
     margin: 1.25rem;
   }
 
-  .contact-para{
-    margin: 10px 100px 5px 100px;
-    font-size: 20px;
-  } 
+  /*about page headings*/ 
+  .about_headings{
+    font-size: 5rem;
+  }
 
+  /*contact page container*/ 
   .contact-container{
     margin-top: 50px 800px 20px 400px;
   }
 
-  .about_headings{
-    font-size: 5rem;
-  }
+  /*contact page paragraph*/ 
+  .contact-para{
+    margin: 10px 100px 5px 100px;
+    font-size: 20px;
+  } 
 }
 
 /* Media changes starting at 1025px screen sizes */
 @media screen and ( min-width: 1025px ) {
+ 
   /*Nav links*/
   nav a{
     font-size: 15px;
   }
 
+  /*Home page title container*/
+  .title_container{
+    width: 50%;
+  }
+
+  /*About page content container*/
+  .content-container{
+    padding: 0 10rem 0 10rem;
+  }
+
+  /*About page content*/
+  .about-content{
+    margin: 2rem;
+    padding:2rem;
+  }
+
+  /*About page 'hello there'*/
   .about-hello-there{
     font-size: 50px;
   }
 
-  /*Blog cards*/
+  /*About page headings*/
+  .about-headings{
+    font-size: 6rem;
+    margin: 5px;
+    text-align: center;
+  }
+
+  /*Portfolio page image*/
+  .image-img{
+    width: 100%; 
+  }
+
+  /*Blog page cards*/
   .blog-card{
     width: 40%; 
     padding-bottom: 1rem;
@@ -594,46 +640,27 @@ input[type=submit]:hover{
     border: solid 1px #eee;
   }
 
+  /*Blog page images*/
   .blog-images{
     width: 300px;
     height: 150px;
   }
 
-  .blog-container{  
-    width: 100%;
-    height: auto;
-    border: solid #333 5px;
-  }
-
+  /*Blog page parent container*/
   .blog-parent-container{  
     width: 100%;
     display: inline-flex;
     flex-wrap: wrap;
   }
 
-  .image-img{
-    width: 100%; 
+  /*Blog page container*/
+  .blog-container{  
+    width: 100%;
+    height: auto;
+    border: solid #333 5px;
   }
 
-  .title_container{
-    width: 50%;
-  }
-
-  .about-content{
-    margin: 2rem;
-    padding:2rem;
-  }
-
-  .about-headings{
-    font-size: 6rem;
-    margin: 5px;
-    text-align: center;
-  }
-
-  .content-container{
-    padding: 0 10rem 0 10rem;
-  }
-
+  /*Contact page container*/
   .contact-container{
     margin: 2rem 20rem 2rem 20rem;
   }
