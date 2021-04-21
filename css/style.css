@@ -144,7 +144,9 @@ nav .current-page{
   flex-direction: column;
   justify-content: center;
   width: 100%;
-  background-color: #333;
+  background-color: #eee;
+  border: 5px solid #333;
+  margin-top: 50px;
 }
 
 /*about page content text para 1*/
@@ -567,6 +569,7 @@ input[type=submit]:hover{
 
 /* Media changes starting at 1025px screen sizes */
 @media screen and ( min-width: 1025px ) {
+  /*Nav links*/
   nav a{
     font-size: 15px;
   }
@@ -607,14 +610,19 @@ input[type=submit]:hover{
 
   .about-content{
     margin: 2rem;
-    width: 70%;
+  }
+
+  .about-headings{
+    font-size: 7rem;
+  }
+
+  .content-container{
+    padding: 0 10rem 0 10rem;
   }
 
   .contact-container{
     margin: 2rem 20rem 2rem 20rem;
   }
 
-  .about-headings{
-    font-size: 7rem;
-  }
+ 
 }
