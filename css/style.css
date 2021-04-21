@@ -228,7 +228,7 @@ nav .current-page{
 }
 
 /*Make the image fill parent image class*/
-.image__img{
+.image-img{
   display: block;
   width: 100%;
 }
@@ -457,7 +457,6 @@ input[type=submit]:hover{
   .home_title{
     color: #333;
     padding: 0;
-
   }
 
   /*Stack home page*/
@@ -579,7 +578,7 @@ input[type=submit]:hover{
     flex-wrap: wrap;
   }
 
-  .image__img{
+  .image-img{
     width: 100%; 
   }
 
