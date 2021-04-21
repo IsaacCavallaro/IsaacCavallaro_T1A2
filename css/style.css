@@ -297,7 +297,7 @@ nav .current-page{
 }
 
 /* Blog Container */
-.blog-container-container{
+.blog-parent-container{
   display: flex;
   justify-content: center;
   height: 70%;
@@ -445,7 +445,7 @@ input[type=submit]:hover{
     margin: 2%; 
   }
 
-  .blog-container-container{  
+  .blog-parent-container{  
     width: 100%;
   }
 
@@ -505,7 +505,7 @@ input[type=submit]:hover{
     margin-bottom: 10px;
   }
 
-  .blog-container-container{
+  .blog-parent-container{
     padding: 0;
     width: 100%;
   }
@@ -573,7 +573,7 @@ input[type=submit]:hover{
     border: solid #333 5px;
   }
 
-  .blog-container-container{  
+  .blog-parent-container{  
     width: 100%;
     display: inline-flex;
     flex-wrap: wrap;
