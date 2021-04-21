@@ -77,7 +77,7 @@ nav .current-page{
   }
 }
 
-.title_container_container{
+.title_container_parent{
   display: flex;
   flex-direction: column;
   justify-content: center;
