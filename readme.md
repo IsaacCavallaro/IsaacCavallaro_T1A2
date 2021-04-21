@@ -39,7 +39,7 @@ I designed my portfolio with three principles in mind:
 
 A link to the wireframes can be found [here](https://github.com/IsaacCavallaro/IsaacCavallaro_T1A2/tree/master/Resources/docs/Wireframes).
 
-A link to the data flow site map can be found [here](https://github.com/IsaacCavallaro/IsaacCavallaro_T1A2/blob/master/Resources/docs/Data%20flow%20map.png).
+A link to the sitemap can be found [here](https://github.com/IsaacCavallaro/IsaacCavallaro_T1A2/blob/master/Resources/docs/Data%20flow%20map/sitemap.pdf).
 
 # Screenshots
 
@@ -47,7 +47,7 @@ A link to screenshots can be found [here](https://github.com/IsaacCavallaro/Isaa
 
 # Slidedeck 
 
-A link to the slide presentation can be found [here](https://github.com/IsaacCavallaro/IsaacCavallaro_T1A2/blob/master/Presentation/powerpoint-presentation-portfolio.pdf).
+A link to the slide presentation can be found [here](https://github.com/IsaacCavallaro/IsaacCavallaro_T1A2/blob/master/Presentation/slide-presentation.pdf).
 
 # Tech Stack
 
