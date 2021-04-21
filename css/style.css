@@ -154,6 +154,11 @@ nav .current-page{
   background-color: #495057;
 }
 
+/*bachelor masters diploma styling*/
+.education-styling{
+  font-size: 25px;
+}
+
 /*CV link*/
 .about-content a{
   border: solid 1px #333;
