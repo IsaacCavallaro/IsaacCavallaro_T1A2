@@ -1,3 +1,303 @@
+commit e030e6fd7dd0e2fefd1b7492007a881e15fe8cff
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Wed Apr 21 15:25:11 2021 +1000
+
+    updating comments to css
+
+commit f9b4251f04412638bff5d2534b24523933737b2e
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Wed Apr 21 15:10:15 2021 +1000
+
+    updating css
+
+commit d3001bc4472c6835107977ecd0031285073f5b94
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Wed Apr 21 15:01:46 2021 +1000
+
+    cleaning html code
+
+commit 5c582d7ac83bc5a3777f83e24e2b8e72f57c70db
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Wed Apr 21 14:54:35 2021 +1000
+
+    updating about page layout
+
+commit 257650a96ceed5d96b40a8d68f42f9cdcefc99aa
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Wed Apr 21 14:49:12 2021 +1000
+
+    updaing css
+
+commit 96f36589e7042081f2eab944df6f6a0cffb4b351
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Wed Apr 21 14:32:53 2021 +1000
+
+    updaing about page
+
+commit ed1866c6ec557ebab66fefcbab0a56ee7416d9fd
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Wed Apr 21 14:07:13 2021 +1000
+
+    updating styling and pulse animation so text can be read
+
+commit 4891f9eaef6d7dcd280ba4d90070b112205112b6
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Wed Apr 21 12:50:51 2021 +1000
+
+    updating sitemap
+
+commit a21b8cec4a16cccf482ac815f49852dd4c7f10e5
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Wed Apr 21 12:25:27 2021 +1000
+
+    cleaning css
+
+commit c721b65d084c32550ce3e8682f794ab3d294112c
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Wed Apr 21 12:21:03 2021 +1000
+
+    cleaning code
+
+commit df3f8d9ed107f01aa9f9d7f4eb79fbc56983fcc8
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Wed Apr 21 11:25:33 2021 +1000
+
+    renaming alt images
+
+commit 5a9308fda36d8a0ad7066b974f90e39e952470ea
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Wed Apr 21 11:20:45 2021 +1000
+
+    adding breal lines to about page
+
+commit e65cc471b539cf0bcb846524c5ed0814910a2486
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Wed Apr 21 11:16:15 2021 +1000
+
+    styling about page
+
+commit 54bce6220eb59113b7f34074c74be8f964033c6a
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Wed Apr 21 11:04:53 2021 +1000
+
+    adding style to about page
+
+commit b077588f85d803d2f1979827968539b431a06796
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Wed Apr 21 10:53:40 2021 +1000
+
+    cleaning code and break tags
+
+commit 43d1f174cc40aca969ec1259e9f51c2adf23d4de
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Wed Apr 21 10:51:33 2021 +1000
+
+    putting break tags on new lines
+
+commit 5a2ee8d68aa8122c75f0e3713f9e12a40716ad1a
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Wed Apr 21 10:48:25 2021 +1000
+
+    cleaning code and classes
+
+commit a7dd1d4e51c4e394b48cb0a7a29705974314c997
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Wed Apr 21 10:42:32 2021 +1000
+
+    tidying class names
+
+commit 130862131a53afd2a54337f5d1ee71560c0fcc58
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Wed Apr 21 10:36:05 2021 +1000
+
+    renaming classes for clean code
+
+commit 1d92d9bdb80862714d5287be1b0bab8643777a41
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Wed Apr 21 10:31:22 2021 +1000
+
+    cleaning up class names
+
+commit 023e5c371be291e6da5b1f0f8a2a9dad3156bb42
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Wed Apr 21 10:19:20 2021 +1000
+
+    renaming title container parent
+
+commit c0febe1cab392fb54d94fa85e1b2c27ab15afeb2
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Wed Apr 21 10:15:57 2021 +1000
+
+    renaming blog container container class
+
+commit 0ede63f10c5080de1f6764909d2c25d0109df6ad
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Wed Apr 21 10:13:00 2021 +1000
+
+    cleaning html code
+
+commit a0a2b1d3b5a7b0bcdcf5432e3bc59bcc7f3c42f4
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Wed Apr 21 09:21:05 2021 +1000
+
+    updating css
+
+commit 2c4999caaba2eeafe89e5b97ff181504d615b4ce
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Wed Apr 21 08:04:24 2021 +1000
+
+    more tidying of index html
+
+commit 6448c63846cbaef3d7e476a688e7214dc79ec6e5
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Wed Apr 21 08:01:13 2021 +1000
+
+    cleaning index html code
+
+commit 8ff23593d966ad05813602959cd20a3a6a343bc6
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Wed Apr 21 07:43:33 2021 +1000
+
+    cleaning about code
+
+commit 219e2361429ada01e8ba43ad200ec7d4ba4723e4
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Wed Apr 21 07:35:41 2021 +1000
+
+    adding border to cards in blog post
+
+commit 19be8d0be4e6e2984d74dcc0d8a8d90c56f03b78
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Wed Apr 21 06:58:47 2021 +1000
+
+    cleaning contanct html
+
+commit fdef2a1d951321aa2ea3680217a7d4b9d85182d5
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Wed Apr 21 06:45:55 2021 +1000
+
+    cleaning css code
+
+commit 4917bf0ac0ce090e4871a03af7314ad3975dbfa8
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Wed Apr 21 06:42:01 2021 +1000
+
+    cleaning portfolio html code
+
+commit 557b54f80087a7c458a459a9be3706a39567baff
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Tue Apr 20 21:59:18 2021 +1000
+
+    updating about font sizes more
+
+commit cf985229b51f543415b83e02ed8b654652a3d0a5
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Tue Apr 20 21:54:18 2021 +1000
+
+    updating font sizes on about page
+
+commit 3f0897c35e077792360f71a8134ac97b5a76da8b
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Tue Apr 20 21:46:44 2021 +1000
+
+    updaing nav font size for desktop
+
+commit 4e8240ea02c437af108ef02e712e14127dd7361d
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Tue Apr 20 21:45:59 2021 +1000
+
+    updating contact page
+
+commit efe732aed18fb055ee57ae2ad77f3d3dc31636f1
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Tue Apr 20 21:35:21 2021 +1000
+
+    updating about page layout
+
+commit 5853215bfb4bec1f59688a05c9f85e10aedb716d
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Tue Apr 20 21:18:51 2021 +1000
+
+    deleting image files
+
+commit 82481437026413285b0ed4d704372eebbe9981fb
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Tue Apr 20 21:06:52 2021 +1000
+
+    updating nav
+
+commit 2a7cccc5b5b721b6afb14172aeb2b0400a3e805e
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Tue Apr 20 20:45:56 2021 +1000
+
+    add social icons to home page
+
+commit d26e14f234f57c45d37d68f64238307cd7967ac4
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Tue Apr 20 20:28:17 2021 +1000
+
+    updating portfolio css
+
+commit 84ce341d415a213ef43741ea46f5aae61428e923
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Tue Apr 20 20:16:39 2021 +1000
+
+    updating blog page and images
+
+commit 4e3a9764c586ce13f982d4427aec5eb64d647827
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Tue Apr 20 19:57:47 2021 +1000
+
+    updating home page css
+
+commit a786341919e90ebabc6681842fcf4961e922b70d
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Tue Apr 20 19:46:44 2021 +1000
+
+    updaing portfolio css background
+
+commit 60c413801c87958e601451d9c7e9b8e660149f82
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Tue Apr 20 18:54:28 2021 +1000
+
+    updating colours for about page
+
+commit 503521680daf1ac7c59408c3f599484837dc5bdc
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Tue Apr 20 18:19:28 2021 +1000
+
+    adding hover to cv button
+
+commit a29b75cab03f9020c78244f6a152fa9121fb2bd3
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Tue Apr 20 18:08:11 2021 +1000
+
+    cleaning css
+
+commit a00b87c626ddf090b2dfff110edb05f8891983d4
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Tue Apr 20 18:01:03 2021 +1000
+
+    updating cv link to look like button
+
+commit cd8d8a4cf62eb6b724cd9961a42be5cca805e9f0
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Tue Apr 20 17:55:49 2021 +1000
+
+    tidying about page
+
+commit 6eb10680f9c43c97de1179f7a7ff817efa836139
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Tue Apr 20 17:52:22 2021 +1000
+
+    updating about and css
+
+commit 194ffc8f07d4eaa677747188e15ace7dfa1c0283
+Author: isaaccavallaro <isaaccavallaro@gmail.com>
+Date:   Tue Apr 20 17:20:12 2021 +1000
+
+    updating contact page
+
 commit 8100b9b53ced50405eafa34dc39eb592958ac149
 Author: isaaccavallaro <isaaccavallaro@gmail.com>
 Date:   Tue Apr 20 13:29:52 2021 +1000
