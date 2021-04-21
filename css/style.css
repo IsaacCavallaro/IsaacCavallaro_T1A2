@@ -565,6 +565,7 @@ input[type=submit]:hover{
   }
 }
 
+
 /* Media changes starting at 1025px screen sizes */
 @media screen and ( min-width: 1025px ) {
   /*Nav links*/
@@ -611,10 +612,11 @@ input[type=submit]:hover{
 
   .about-content{
     margin: 2rem;
+    padding:2rem;
   }
 
   .about-headings{
-    font-size: 100px;
+    font-size: 6rem;
     margin: 5px;
     text-align: center;
   }
@@ -626,6 +628,4 @@ input[type=submit]:hover{
   .contact-container{
     margin: 2rem 20rem 2rem 20rem;
   }
-
- 
 }
